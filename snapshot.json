@@ -1,0 +1,922 @@
+{
+  "version": "1",
+  "dataAsOf": "2026-07-09",
+  "updatedAt": "2026-07-09T19:00:00Z",
+  "exportedAt": "2026-07-09T23:19:35.978Z",
+  "districtCode": "MT-01",
+  "data": {
+    "DISTRICT": {
+      "id": "mt-01",
+      "districtNumber": "MT-01",
+      "districtName": "Montana's 1st Congressional District",
+      "state": "Montana",
+      "counties": [
+        "Beaverhead",
+        "Deer Lodge",
+        "Flathead",
+        "Gallatin",
+        "Glacier",
+        "Granite",
+        "Lake",
+        "Lincoln",
+        "Madison",
+        "Mineral",
+        "Missoula",
+        "Pondera",
+        "Powell",
+        "Ravalli",
+        "Sanders",
+        "Silver Bow"
+      ],
+      "majorPlaces": [
+        "Missoula",
+        "Bozeman",
+        "Kalispell",
+        "Butte",
+        "Whitefish"
+      ],
+      "cycleYear": 2026,
+      "population": 542112,
+      "registeredVoters": null,
+      "partyRegistration": null,
+      "boundaryConfidence": "unconfirmed",
+      "electorateConfidence": "unconfirmed",
+      "previousResult": {
+        "year": 2024,
+        "seat": "U.S. House — MT-01",
+        "winner": {
+          "name": "Ryan Zinke (R)",
+          "pct": 52.29,
+          "votes": 168529
+        },
+        "runnerUp": {
+          "name": "Monica Tranel (D)",
+          "pct": 44.62,
+          "votes": 143783
+        },
+        "turnoutPct": 59.4
+      },
+      "newsDiscoveryHints": {
+        "geographicHint": "MT-01 spans 16 western Montana counties (15 full, Pondera partial) anchored by Missoula (Missoula County), Bozeman (Gallatin County), and Kalispell (Flathead County); Butte (Silver Bow County) is a secondary population center. Helena/Lewis and Clark County is NOT in this district (it is MT-02).",
+        "preferredOutlets": [
+          "Montana Free Press",
+          "MTPR (Montana Public Radio)",
+          "Missoulian",
+          "Bozeman Daily Chronicle",
+          "Daily Inter Lake (Kalispell)",
+          "KPAX",
+          "Flathead Beacon"
+        ]
+      }
+    },
+    "SOURCES": {
+      "src-mt-votemt-calendar": {
+        "id": "src-mt-votemt-calendar",
+        "name": "VoteMT.gov — 2026 Voter Calendar",
+        "short": "VoteMT Calendar",
+        "url": "https://votemt.gov/voter-calendar/",
+        "publisher": "Montana Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Primary anchor for all 2026 general-election dates; includes explicit notice that SB 490's Saturday-office-hours provision is enjoined by court order."
+      },
+      "src-mt-votemt-faq": {
+        "id": "src-mt-votemt-faq",
+        "name": "VoteMT.gov — Frequently Asked Questions",
+        "short": "VoteMT FAQ",
+        "url": "https://votemt.gov/frequently-asked-questions/",
+        "publisher": "Montana Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-mt-votemt-absentee": {
+        "id": "src-mt-votemt-absentee",
+        "name": "VoteMT.gov — Absentee Ballot",
+        "short": "VoteMT Absentee",
+        "url": "https://votemt.gov/absentee-ballot/",
+        "publisher": "Montana Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-mt-votemt-resolve": {
+        "id": "src-mt-votemt-resolve",
+        "name": "VoteMT.gov — Resolve My Ballot",
+        "short": "VoteMT Resolve",
+        "url": "https://votemt.gov/resolve-my-ballot/",
+        "publisher": "Montana Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-mt-voterportal": {
+        "id": "src-mt-voterportal",
+        "name": "Montana Voter Portal — My Voter Page",
+        "short": "MT Voter Portal",
+        "url": "https://voterportal.mt.gov/",
+        "publisher": "Montana Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Statewide name/DOB lookup for registration status and polling place ('My Voting Information')."
+      },
+      "src-mt-sos-elections": {
+        "id": "src-mt-sos-elections",
+        "name": "Montana Secretary of State — Elections",
+        "short": "MT SOS Elections",
+        "url": "https://sosmt.gov/elections/",
+        "publisher": "Montana Secretary of State (Christi Jacobsen)",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-mt-sos-absentee": {
+        "id": "src-mt-sos-absentee",
+        "name": "Montana SOS — Absentee Voting",
+        "short": "MT SOS Absentee",
+        "url": "https://sosmt.gov/elections/absentee/",
+        "publisher": "Montana Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-mt-sos-military-overseas": {
+        "id": "src-mt-sos-military-overseas",
+        "name": "Montana SOS — Military and Overseas Voters",
+        "short": "MT SOS UOCAVA",
+        "url": "https://sosmt.gov/elections/military-overseas/",
+        "publisher": "Montana Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-mt-sos-petition-signatures": {
+        "id": "src-mt-sos-petition-signatures",
+        "name": "Montana SOS — Candidate Petition Signatures Submitted for Verification",
+        "short": "MT SOS Petition Signatures",
+        "url": "https://sosmt.gov/es/candidate-petition-signatures-submitted-to-montana-counties-election-officials-to-verify-and-certify/",
+        "publisher": "Montana Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "As of May 26, 2026, independent Kimberly Persico had only 562 accepted signatures against a 6,742 threshold; final certification deadline is August 20, 2026."
+      },
+      "src-mt-sos-primary-thanks": {
+        "id": "src-mt-sos-primary-thanks",
+        "name": "Montana SOS — Secretary Jacobsen Thanks Voters for Successful 2026 Primary",
+        "short": "MT SOS Primary Recap",
+        "url": "https://sosmt.gov/secretary-christi-jacobsen-thanks-montana-voters-election-workers-for-successful-2026-primary-election/",
+        "publisher": "Montana Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-mt-sos-voter-id-reminder": {
+        "id": "src-mt-sos-voter-id-reminder",
+        "name": "Montana SOS — One Week to Election Day: Absentee Ballots, Rejections, Photo Voter ID Reminder",
+        "short": "MT SOS ID Reminder",
+        "url": "https://sosmt.gov/one-week-to-election-day-returning-absentee-ballots-rejected-ballots-remain-low-photo-voter-id-reminder/",
+        "publisher": "Montana Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-mt-electionresults": {
+        "id": "src-mt-electionresults",
+        "name": "Montana Official Election Results Portal",
+        "short": "MT Election Results",
+        "url": "https://electionresults.mt.gov/",
+        "publisher": "Montana Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Results portal only, not a rules/procedures source. Also hosts the statewide voter-turnout details page used for the 791,207 registered-voter figure."
+      },
+      "src-missoula-elections": {
+        "id": "src-missoula-elections",
+        "name": "Missoula County Elections — Current Election",
+        "short": "Missoula Co. Elections",
+        "url": "https://www.missoulacounty.gov/departments/elections/current-election/",
+        "publisher": "Missoula County Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Confirms 24/7 drop box at the Elections Center (140 N. Russell St.) plus drive-thru drop-off at McCormick Park and Hellgate Elementary on Election Day, 7am-8pm."
+      },
+      "src-gallatin-election-forms": {
+        "id": "src-gallatin-election-forms",
+        "name": "Gallatin County — Election Forms",
+        "short": "Gallatin Co. Election Forms",
+        "url": "https://www.gallatinmt.gov/387/Election-Forms",
+        "publisher": "Gallatin County Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Requires wet-ink (non-digital) signature on any ballot-rejection-resolution or replacement-ballot form. Drop-box locations not itemized on this page (needsReview)."
+      },
+      "src-candidatefiling-mt": {
+        "id": "src-candidatefiling-mt",
+        "name": "Montana Candidate Filing Portal",
+        "short": "MT Candidate Filing",
+        "url": "https://candidatefiling.mt.gov/",
+        "publisher": "Montana Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-mt-independent-voter-project": {
+        "id": "src-mt-independent-voter-project",
+        "name": "Independent Voter Project — Montana Voter Stats",
+        "short": "IVP MT Voter Stats",
+        "url": "https://independentvoterproject.org/voter-stats/mt",
+        "publisher": "Independent Voter Project",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 5,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Modeled/inferred statewide party breakdown from primary ballot history, not an official record — Montana does not register voters by party."
+      },
+      "src-ncsl-voter-id": {
+        "id": "src-ncsl-voter-id",
+        "name": "NCSL — Voter ID Laws",
+        "short": "NCSL Voter ID",
+        "url": "https://www.ncsl.org/elections-and-campaigns/voter-id",
+        "publisher": "National Conference of State Legislatures",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 5,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-narf-mt-voting": {
+        "id": "src-narf-mt-voting",
+        "name": "Native American Rights Fund — Montana Voting 2025 (SB 490/SB 276 litigation)",
+        "short": "NARF MT Voting",
+        "url": "https://narf.org/montana-voting-2025/",
+        "publisher": "Native American Rights Fund",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 5,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Plaintiff-side advocacy source; corroborates the May 11, 2026 preliminary injunction against SB 490."
+      },
+      "src-mtfp-judge-blocks-sb490": {
+        "id": "src-mtfp-judge-blocks-sb490",
+        "name": "Montana Free Press — Judge Blocks Election Day Voter Registration Changes",
+        "short": "MTFP SB 490 Injunction",
+        "url": "https://montanafreepress.org/2026/05/11/judge-blocks-election-day-voter-registration-changes/",
+        "publisher": "Montana Free Press",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Reports Judge Adam Larsen's May 11, 2026 preliminary injunction blocking SB 490 statewide as likely unconstitutional."
+      },
+      "src-mtfp-new-voting-rules": {
+        "id": "src-mtfp-new-voting-rules",
+        "name": "Montana Free Press — New Voting Rules in Play as Primary Election Begins",
+        "short": "MTFP New Rules 2026",
+        "url": "https://montanafreepress.org/2026/05/07/new-voting-rules-in-play-as-primary-election-begins/",
+        "publisher": "Montana Free Press",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Details SB 276 voter-ID tightening and the new birth-year-on-envelope absentee requirement."
+      },
+      "src-mtfp-primary-results": {
+        "id": "src-mtfp-primary-results",
+        "name": "Montana Free Press — Montana Primary Election 2026 Results",
+        "short": "MTFP Primary Results",
+        "url": "https://montanafreepress.org/2026/06/02/montana-primary-election-2026-results/",
+        "publisher": "Montana Free Press",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-mtfp-flint-forstag": {
+        "id": "src-mtfp-flint-forstag",
+        "name": "Montana Free Press — Flint, Forstag Win Western District Primary Election",
+        "short": "MTFP Flint-Forstag",
+        "url": "https://montanafreepress.org/2026/06/02/flint-forstag-western-district-primary-election/",
+        "publisher": "Montana Free Press",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-mtfp-voter-data-doj": {
+        "id": "src-mtfp-voter-data-doj",
+        "name": "Montana Free Press — Secretary of State Complies with Federal Demand for Montana Voter Data",
+        "short": "MTFP Voter Data DOJ",
+        "url": "https://montanafreepress.org/2026/02/04/secretary-of-state-christi-jacobsen-complies-with-federal-demand-for-montana-voter-data/",
+        "publisher": "Montana Free Press",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Data-privacy context: SOS office shared partial SSNs, driver's license numbers, and DOBs with U.S. DOJ under a federal data-sharing demand."
+      },
+      "src-cbsnews-mt01-primary": {
+        "id": "src-cbsnews-mt01-primary",
+        "name": "CBS News — Montana Congressional District 1 Democratic Primary Results",
+        "short": "CBS News MT-01 Primary",
+        "url": "https://www.cbsnews.com/news/montana-congressional-district-1-democratic-primary-results-sam-forstag/",
+        "publisher": "CBS News",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Confirms Zinke's March 2026 retirement announcement citing health reasons from his Navy SEAL career."
+      },
+      "src-ktvh-primary-reaction": {
+        "id": "src-ktvh-primary-reaction",
+        "name": "KTVH — Political Science Professor Reacts to Montana Primary Results",
+        "short": "KTVH Primary Reaction",
+        "url": "https://www.ktvh.com/news/montana-politics/political-science-professor-reacts-to-montana-primary-results",
+        "publisher": "KTVH",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Confirms Libertarian Party's formal endorsement of Nick Sheedy and that Libertarians are Montana's only ballot-qualified minor party with automatic access."
+      },
+      "src-missoulacurrent-redistricting": {
+        "id": "src-missoulacurrent-redistricting",
+        "name": "Missoula Current — Montana Congressional Districts (2021 redistricting)",
+        "short": "Missoula Current Redistricting",
+        "url": "https://missoulacurrent.com/montana-congressional-districts/",
+        "publisher": "Missoula Current",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Confirms the western district (MT-01) includes Missoula, Bozeman, and Kalispell but NOT Helena/Lewis and Clark County, which is in MT-02."
+      },
+      "src-wikipedia-mt01": {
+        "id": "src-wikipedia-mt01",
+        "name": "Wikipedia — Montana's 1st congressional district",
+        "short": "Wikipedia MT-01",
+        "url": "https://en.wikipedia.org/wiki/Montana's_1st_congressional_district",
+        "publisher": "Wikipedia",
+        "sourceType": "secondary",
+        "hierarchyLevel": 7,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Used for the county list (cross-checked against Missoula Current) and 2024 previousResult vote totals (cross-checked against Ballotwire and Octagon AI)."
+      }
+    },
+    "ELECTION_EVENTS": [
+      {
+        "id": "evt-mt01-write-in-deadline",
+        "milestone": "Deadline for write-in candidates (Declaration of Intent)",
+        "electionType": "general",
+        "date": "2026-08-05",
+        "significance": "5:00 PM deadline for write-in candidates to file a Declaration of Intent for the November 3, 2026 general election.",
+        "governingAuthority": "Montana Secretary of State",
+        "sourceIds": [
+          "src-mt-votemt-calendar"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mt01-withdrawal-deadline",
+        "milestone": "Deadline to withdraw from general-election candidacy",
+        "electionType": "general",
+        "date": "2026-08-10",
+        "significance": "5:00 PM deadline for a candidate to withdraw from the November 3, 2026 general-election ballot.",
+        "governingAuthority": "Montana Secretary of State",
+        "sourceIds": [
+          "src-mt-votemt-calendar"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mt01-independent-cert-deadline",
+        "milestone": "Independent/minor-party general-election ballot certification deadline",
+        "electionType": "general",
+        "date": "2026-08-20",
+        "significance": "Final deadline for the Secretary of State to certify independent and minor-party candidates for the November 3, 2026 general-election ballot. Independent Kimberly Persico's petition-signature drive was far short of the 6,742-signature threshold as of May 26, 2026 (562 accepted vs. 156 rejected); her final ballot status is unconfirmed pending this deadline.",
+        "governingAuthority": "Montana Secretary of State",
+        "sourceIds": [
+          "src-mt-sos-petition-signatures"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mt01-uocava-eas-opens",
+        "milestone": "UOCAVA Electronic Absentee System (EAS) opens for general election",
+        "electionType": "general",
+        "date": "2026-09-18",
+        "significance": "Military and overseas voters may begin using Montana's Electronic Absentee System for the November 3, 2026 general election.",
+        "governingAuthority": "Montana Secretary of State",
+        "sourceIds": [
+          "src-mt-sos-military-overseas"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mt01-reg-deadline",
+        "milestone": "Close of regular voter registration",
+        "electionType": "general",
+        "date": "2026-10-05",
+        "significance": "5:00 PM deadline for standard (online/mail/in-person) voter registration ahead of the November 3, 2026 general election. Late registration (in-person only) begins the next day and runs through Election Day.",
+        "governingAuthority": "Montana Secretary of State",
+        "sourceIds": [
+          "src-mt-votemt-calendar"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mt01-late-reg-begins",
+        "milestone": "Late-registration period begins (in-person only)",
+        "electionType": "general",
+        "date": "2026-10-06",
+        "significance": "8:00 AM. Late registration runs in-person only through Election Day; the ballot must be obtained in person. Election Day registration remains open until 8:00 PM (SB 490's proposed noon cutoff is enjoined by court order).",
+        "governingAuthority": "Montana Secretary of State",
+        "sourceIds": [
+          "src-mt-votemt-calendar",
+          "src-mt-votemt-faq"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mt01-absentee-mailed",
+        "milestone": "General-election absentee ballots mailed",
+        "electionType": "general",
+        "date": "2026-10-09",
+        "significance": "8:00 AM, 25 days before Election Day. County election offices begin mailing absentee ballots for the November 3, 2026 general election.",
+        "governingAuthority": "Montana Secretary of State; Missoula, Gallatin, and Flathead county election offices",
+        "sourceIds": [
+          "src-mt-votemt-calendar",
+          "src-mt-sos-absentee"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mt01-absentee-app-deadline",
+        "milestone": "Absentee ballot application deadline",
+        "electionType": "general",
+        "date": "2026-11-02",
+        "significance": "Noon the day before Election Day. Absentee ballot applications must be received by the county election office by this deadline.",
+        "governingAuthority": "Montana Secretary of State",
+        "sourceIds": [
+          "src-mt-sos-absentee"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mt01-general-day",
+        "milestone": "General election day",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "U.S. midterm general election. MT-01 open seat: Aaron Flint (R) vs. Sam Forstag (D) vs. Nick Sheedy (Libertarian, automatic ballot access); independent Kimberly Persico's qualification is unconfirmed. Polls open 7:00 AM - 8:00 PM statewide; some small precincts may open as late as noon (specific MT-01 precincts not identified).",
+        "governingAuthority": "Montana Secretary of State",
+        "sourceIds": [
+          "src-mt-votemt-calendar",
+          "src-mtfp-flint-forstag"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mt01-absentee-receipt-deadline",
+        "milestone": "Absentee ballot return deadline",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "8:00 PM on Election Day. Absentee ballots must be physically received (not merely postmarked) by the county election office by this time. A December 2025 USPS postmark-policy change (marking mail with processing date rather than drop-off date) is flagged as a potential source of missed deadlines.",
+        "governingAuthority": "Montana Secretary of State; Missoula, Gallatin, and Flathead county election offices",
+        "sourceIds": [
+          "src-mt-votemt-calendar",
+          "src-mt-sos-absentee"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mt01-uocava-electronic-return-deadline",
+        "milestone": "UOCAVA electronic-return deadline",
+        "electionType": "general",
+        "date": "2026-11-04",
+        "significance": "Military/overseas ballots returned electronically must be sent by 8:00 PM Election Day and received by the county by 5:00 PM the day after Election Day.",
+        "governingAuthority": "Montana Secretary of State",
+        "sourceIds": [
+          "src-mt-sos-military-overseas"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mt01-fwab-deadline",
+        "milestone": "Federal Write-In Absentee Ballot (FWAB) receipt deadline",
+        "electionType": "general",
+        "date": "2026-11-09",
+        "significance": "3:00 PM, the Monday following the election. Final receipt deadline for Federal Write-In Absentee Ballots from military/overseas voters.",
+        "governingAuthority": "Montana Secretary of State",
+        "sourceIds": [
+          "src-mt-sos-military-overseas"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      }
+    ],
+    "RULES": [
+      {
+        "id": "rule-mt-voter-id-sb276",
+        "topic": "Voter ID requirements at the polls (SB 276)",
+        "currentRule": "Effective for 2026: acceptable primary ID is a Montana driver's license, Montana state ID card, tribal photo ID, military ID card, U.S. passport, Montana concealed-carry permit, or a student photo ID issued by a Montana University System school or an NCAA-member school. If a voter's ID is not on this primary list (e.g., a non-NCAA-affiliated student ID), the voter must also present a secondary document showing name and current address (utility bill, bank statement, paycheck, vehicle registration, or other government document). SB 276 tightened the prior rule, under which any photo ID was sufficient on its own.",
+        "status": "active",
+        "whyItMatters": "MT-01 voters across all 16 counties should bring a primary-list photo ID; those relying on a non-qualifying student ID must also carry a secondary proof-of-address document. If ID is insufficient or the voter's name isn't in the precinct register, the voter may sign the register and cast a provisional ballot (Montana uses signature verification for provisional ballots).",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-mtfp-new-voting-rules",
+          "src-mt-sos-voter-id-reminder",
+          "src-ncsl-voter-id"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "SB 276 was challenged in the same lawsuit as SB 490 but was NOT blocked by the May 11, 2026 court order; SB 276's ID rules remain in effect for the 2026 general election."
+      },
+      {
+        "id": "rule-mt-absentee-envelope-birth-year",
+        "topic": "Absentee envelope-return requirements, including new birth-year mandate",
+        "currentRule": "Voters must (1) place the voted ballot in the secrecy envelope, (2) place the secrecy envelope inside the return signature envelope, and (3) sign, date, and write their birth year in the dedicated space on the return envelope. The person to whom the ballot was issued must be the one who signs the return envelope. The birth-year requirement is new for 2026 (first applied in 2025 municipal elections, then 2026 school elections).",
+        "status": "active",
+        "whyItMatters": "MT-01 voters returning an absentee ballot must complete all three steps, including the new birth-year field, or risk having their ballot flagged as rejected. As of the May 2026 primary, roughly 0.25% of ballots statewide were in rejected status.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-mt-votemt-absentee",
+          "src-mt-sos-absentee",
+          "src-mtfp-new-voting-rules"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "Gallatin County requires a wet-ink (non-digital) signature on any rejection-resolution or replacement-ballot form, per the county's Election Forms page."
+      },
+      {
+        "id": "rule-mt-ballot-status-and-curing",
+        "topic": "Ballot status tracking and rejection resolution",
+        "currentRule": "Voters can track ballot status (SENT / RECEIVED / ACCEPTED / REJECTED) via VoteMT.gov and resolve a rejected ballot (missing/incorrect signature or missing/incorrect birth year) at votemt.gov/resolve-my-ballot/.",
+        "status": "active",
+        "whyItMatters": "MT-01 voters whose absentee ballot is flagged as rejected have a defined path to cure the defect and ensure their vote counts; Gallatin County specifically requires a wet-ink signature on the cure/replacement form.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-mt-votemt-resolve",
+          "src-gallatin-election-forms"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "NEEDS REVIEW: exact cure-window length (how many days after Election Day a voter has to cure a rejected ballot) was not independently confirmed on a primary source in this research pass."
+      },
+      {
+        "id": "rule-mt-sb490-injunction",
+        "topic": "SB 490 (Saturday-before-election hours / Election Day registration cutoff) — enjoined",
+        "currentRule": "SB 490 (signed May 5, 2025) would have (1) ended federal-election Election Day registration at noon instead of 8:00 PM, (2) ended late registration on the Monday before Election Day at noon instead of continuing, and (3) required county election offices to open the Saturday before Election Day for expanded registration/voting. On May 11, 2026, Judge Adam Larsen (Montana First Judicial District Court, Lewis and Clark County) issued a preliminary injunction blocking all SB 490 provisions statewide as 'likely unconstitutional under the Montana Constitution.'",
+        "status": "active",
+        "whyItMatters": "For the November 3, 2026 general election, MT-01 voters retain Election Day registration until 8:00 PM (not noon), the Monday-before-election cutoff remains noon (unchanged), and county offices are NOT required to open the Saturday before the election. This is a preliminary injunction, not a final ruling — litigation remains ongoing and could change the rule again before or after Nov. 3, 2026.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-mtfp-judge-blocks-sb490",
+          "src-narf-mt-voting",
+          "src-mt-votemt-calendar"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "Plaintiffs: seven Montana Indian tribes, Western Native Voice, ACLU of Montana, Forward Montana, Montana Public Interest Research Group, Montana Federation of Public Employees. Defendant: Secretary of State Christi Jacobsen; intervenors: RNC and Montana GOP. NEEDS REVIEW closer to Election Day for any updated ruling."
+      },
+      {
+        "id": "rule-mt-eac-registration-deadline-discrepancy",
+        "topic": "Registration-deadline framing discrepancy between EAC and VoteMT.gov",
+        "currentRule": "The U.S. EAC's Montana Profile (Jan. 2026) describes Montana's 'registration deadline' as 'noon the day before Election Day' — this appears to describe the late-registration in-person cutoff pattern, not the 30-day regular-registration close. VoteMT.gov's own calendar and FAQ distinguish 'regular registration close' (Oct. 5, 2026, 5:00 PM) from 'late registration' (Oct. 6, 2026 through Election Day, in-person only).",
+        "status": "active",
+        "whyItMatters": "Dashboard users should be pointed to the more precise VoteMT.gov framing (Oct. 5 regular close vs. Oct. 6-Nov. 3 late/in-person registration) rather than the EAC's single 'noon the day before' framing, to avoid confusion about the true regular-registration deadline.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-mt-votemt-calendar",
+          "src-mt-votemt-faq"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "NEEDS REVIEW: this is a source-framing conflict, not a legal dispute; see CONFLICTS below."
+      }
+    ],
+    "RESOURCES": [
+      {
+        "id": "res-register",
+        "label": "Register to vote",
+        "description": "Statewide hub for Montana voter registration ahead of the November 3, 2026 general election. NEEDS REVIEW: a dedicated registration sub-page was not independently isolated this pass; votemt.gov home and the SOS elections hub are verified fallbacks.",
+        "url": "https://votemt.gov/",
+        "governingAuthority": "Montana Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-mt-votemt-calendar",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-locations",
+        "label": "Find voting locations",
+        "description": "Statewide 'My Voter Page' lookup (name/DOB) for polling place and registration status; supplemented by Missoula County's current-election page for county-specific site details.",
+        "url": "https://voterportal.mt.gov/",
+        "governingAuthority": "Montana Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-mt-voterportal",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-ballot-box",
+        "label": "Find ballot drop-off options",
+        "description": "Montana counties do use ballot drop boxes. Confirmed for Missoula County: 24/7 drop box outside the Elections Center (140 N. Russell St.), plus drive-thru locations at McCormick Park and Hellgate Elementary, open 7 AM-8 PM Election Day. Gallatin County drop-box locations were not itemized on its Election Forms page (needsReview) — voters in other MT-01 counties should check their county election office directly.",
+        "url": "https://www.missoulacounty.gov/departments/elections/current-election/",
+        "governingAuthority": "Missoula County Elections (confirmed example); other MT-01 county election offices for local specifics",
+        "sourceType": "official-county",
+        "sourceId": "src-missoula-elections",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-check-reg",
+        "label": "Check registration status",
+        "description": "Official Montana 'My Voter Page' lookup tool (name/DOB) for checking current registration status.",
+        "url": "https://voterportal.mt.gov/",
+        "governingAuthority": "Montana Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-mt-voterportal",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-track",
+        "label": "Track your absentee ballot",
+        "description": "VoteMT.gov content repeatedly references online ballot-status tracking (SENT/RECEIVED/ACCEPTED/REJECTED) but a distinct dedicated tracking sub-URL was not independently isolated this pass. NEEDS REVIEW to confirm the exact tracking sub-page; votemt.gov and voterportal.mt.gov are safe fallbacks.",
+        "url": "https://votemt.gov/",
+        "governingAuthority": "Montana Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-mt-votemt-calendar",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-verify",
+        "label": "Resolve a rejected ballot",
+        "description": "Official page for resolving a rejected absentee ballot (signature or birth-year issues). Note: Gallatin County requires a wet-ink (non-digital) signature on its resolution/replacement forms.",
+        "url": "https://votemt.gov/resolve-my-ballot/",
+        "governingAuthority": "Montana Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-mt-votemt-resolve",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-results",
+        "label": "Election results",
+        "description": "Official Montana Secretary of State results portal. Results only, not a rules/procedures source.",
+        "url": "https://electionresults.mt.gov/",
+        "governingAuthority": "Montana Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-mt-electionresults",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-missoula-county",
+        "label": "Missoula County Elections",
+        "description": "Most populous MT-01 county. County-level polling place, drop-box, and current-election details supplementing the statewide tools above.",
+        "url": "https://www.missoulacounty.gov/departments/elections/current-election/",
+        "governingAuthority": "Missoula County Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-missoula-elections",
+        "lastVerified": "2026-07-09"
+      }
+    ],
+    "UPDATES": [
+      {
+        "id": "upd-mt01-001",
+        "title": "MT-01 dashboard initialized from wa-03 template — 25 sources, 12 events, 5 rules wired",
+        "fieldChanged": "Dashboard configuration",
+        "oldValue": "Not configured",
+        "newValue": "Initial build July 9, 2026, cloned from the WA-03 template structure. All 25 sources (Montana SOS/VoteMT.gov, Missoula/Gallatin county election offices, and dated news reporting) recorded from primary-source research. All 12 election events and 5 voting rules researched from VoteMT.gov, sosmt.gov, and county election office pages, but all marked needsReview/unconfirmed pending human QA. Candidates: Aaron Flint (R) vs. Sam Forstag (D) after the June 2, 2026 primary; Libertarian Nick Sheedy has automatic ballot access; independent Kimberly Persico's certification is unconfirmed (final SOS deadline Aug 20, 2026).",
+        "sourceIds": [
+          "src-mt-votemt-calendar",
+          "src-mt-sos-elections",
+          "src-missoula-elections",
+          "src-mtfp-flint-forstag"
+        ],
+        "detectedAt": "2026-07-09T18:00:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      },
+      {
+        "id": "upd-mt01-002",
+        "title": "Corrected core-county list — Lewis and Clark County is NOT in MT-01",
+        "fieldChanged": "District boundary / core counties",
+        "oldValue": "Prior project context listed 'Missoula, Gallatin, and Lewis and Clark' as MT-01 core counties.",
+        "newValue": "Corrected to the confirmed 16-county list (15 full + Pondera partial): Beaverhead, Deer Lodge, Flathead, Gallatin, Glacier, Granite, Lake, Lincoln, Madison, Mineral, Missoula, Pondera (partial), Powell, Ravalli, Sanders, Silver Bow. Lewis and Clark County (Helena) is in MT-02, not MT-01. Core counties for tooling/map are now Missoula, Gallatin, and Flathead.",
+        "sourceIds": [
+          "src-missoulacurrent-redistricting",
+          "src-wikipedia-mt01"
+        ],
+        "detectedAt": "2026-07-09T18:00:00Z",
+        "severity": "high",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      },
+      {
+        "id": "upd-mt01-003",
+        "title": "SB 490 remains under preliminary injunction; SB 276 voter-ID rules remain active",
+        "fieldChanged": "QA status / active litigation",
+        "oldValue": "Not yet reviewed",
+        "newValue": "5 voting rules and 12 election events all marked needsReview: true, confidence: unconfirmed (lastVerified 2026-07-09). SB 490's Saturday-office-hours and Election Day registration cutoff changes remain enjoined per the May 11, 2026 preliminary injunction; SB 276 voter-ID rules were not blocked and remain active for 2026. Re-verify Kimberly Persico's independent ballot status after the August 20, 2026 certification deadline.",
+        "sourceIds": [
+          "src-mtfp-judge-blocks-sb490",
+          "src-mt-sos-petition-signatures"
+        ],
+        "detectedAt": "2026-07-09T18:00:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      }
+    ],
+    "CONFLICTS": [
+      {
+        "id": "conf-mt01-001",
+        "factInQuestion": "Whether Montana's 'voter registration deadline' is most accurately described as a single noon-before-Election-Day cutoff or as two distinct phases (regular close vs. late/in-person registration).",
+        "sourceAId": "src-mt-votemt-calendar",
+        "sourceAClaim": "VoteMT.gov's official voter calendar and FAQ distinguish a 'regular registration close' on October 5, 2026 at 5:00 PM (online/mail/in-person) from a separate 'late registration' period from October 6, 2026 through Election Day (in-person only, ballot obtained in person).",
+        "sourceBId": "src-mt-independent-voter-project",
+        "sourceBClaim": "The U.S. EAC's Montana Profile (Jan. 2026) describes Montana's registration deadline in a single line as 'noon the day before Election Day,' without distinguishing the two-phase structure.",
+        "whyItMatters": "MT-01 voters need a single, clear registration-deadline framing. Using only the EAC's single-line description could cause a voter who could still register in person through Election Day to mistakenly believe registration closed weeks earlier.",
+        "suggestedReviewAction": "Use VoteMT.gov's two-phase framing (regular close Oct. 5, late/in-person Oct. 6-Nov. 3) as the authoritative dashboard framing; cite the EAC profile only as secondary context, not as the primary deadline statement.",
+        "severity": "medium",
+        "status": "unresolved",
+        "createdAt": "2026-07-09T18:00:00Z"
+      },
+      {
+        "id": "conf-mt01-002",
+        "factInQuestion": "Final ballot-qualification status of independent candidate Kimberly Persico for the MT-01 general election.",
+        "sourceAId": "src-mt-sos-petition-signatures",
+        "sourceAClaim": "As of May 26, 2026 (the filing deadline), Persico had only 562 accepted signatures against a required 6,742 (4% of Zinke's 2024 winning vote total) — far short of the threshold.",
+        "sourceBId": "src-mtfp-flint-forstag",
+        "sourceBClaim": "Montana Free Press's confirmed general-election field framing treats Flint (R), Forstag (D), and Sheedy (L) as the settled ballot, with Persico's status described as pending/unlikely rather than finally resolved.",
+        "whyItMatters": "The Secretary of State's final independent/minor-party certification deadline (August 20, 2026) falls after this report's compilation date. Publishing Persico as either 'on the ballot' or 'not on the ballot' before that date risks being wrong in either direction.",
+        "suggestedReviewAction": "Mark Persico's status as 'likely not qualifying, unconfirmed' and re-check sosmt.gov's certification announcement after August 20, 2026 before finalizing the general-election candidate list.",
+        "severity": "medium",
+        "status": "unresolved",
+        "createdAt": "2026-07-09T18:00:00Z"
+      }
+    ],
+    "NEWS": [
+      {
+        "id": "news-mt01-001",
+        "headline": "Sam Forstag - Election 2026 Guide",
+        "sourceName": "Montana Free Press",
+        "url": "https://projects.montanafreepress.org/election-guide-2026/candidates/sam-forstag/",
+        "publishedAt": "2026-06-15",
+        "relevanceSummary": "Confirms final-ish primary vote counts and the full R/D/L/I candidate list for MT-01 ahead of the general election.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-002",
+        "headline": "Judge blocks Election Day voter registration changes",
+        "sourceName": "Montana Free Press",
+        "url": "https://montanafreepress.org/2026/05/11/judge-blocks-election-day-voter-registration-changes/",
+        "publishedAt": "2026-05-11",
+        "relevanceSummary": "Reports the preliminary injunction blocking SB 490's Election Day registration cutoff and Saturday-office-hours provisions statewide, directly affecting MT-01 voters' registration options for Nov. 3, 2026.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-003",
+        "headline": "New voting rules in play as primary election begins",
+        "sourceName": "Montana Free Press",
+        "url": "https://montanafreepress.org/2026/05/07/new-voting-rules-in-play-as-primary-election-begins/",
+        "publishedAt": "2026-05-07",
+        "relevanceSummary": "Details SB 276's voter-ID tightening and the new birth-year-on-envelope absentee-ballot requirement in effect for the 2026 cycle.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-004",
+        "headline": "Flint, Forstag win Western District primary election",
+        "sourceName": "Montana Free Press",
+        "url": "https://montanafreepress.org/2026/06/02/flint-forstag-western-district-primary-election/",
+        "publishedAt": "2026-06-02",
+        "relevanceSummary": "Confirms Aaron Flint (R) and Sam Forstag (D) as the MT-01 general-election nominees for the open seat vacated by Ryan Zinke's retirement.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-005",
+        "headline": "Political science professor reacts to Montana primary results",
+        "sourceName": "KTVH",
+        "url": "https://www.ktvh.com/news/montana-politics/political-science-professor-reacts-to-montana-primary-results",
+        "publishedAt": "2026-06-04",
+        "relevanceSummary": "Confirms the Libertarian Party's formal endorsement of Nick Sheedy and clarifies that Libertarians are Montana's only ballot-qualified minor party with automatic access statewide.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-006",
+        "headline": "Secretary Christi Jacobsen thanks Montana voters, election workers for successful 2026 Primary Election",
+        "sourceName": "Montana Secretary of State",
+        "url": "https://sosmt.gov/secretary-christi-jacobsen-thanks-montana-voters-election-workers-for-successful-2026-primary-election/",
+        "publishedAt": "2026-06-04",
+        "relevanceSummary": "Official confirmation of statewide primary turnout (~300,000, all precincts reporting) and a less-than-1% ballot-rejection rate ahead of the general election.",
+        "tag": "administration",
+        "reviewState": "new"
+      }
+    ],
+    "LAST_REFRESH": {
+      "id": "run-2026-07-09-mt-01-initial-build",
+      "startedAt": "2026-07-09T18:00:00Z",
+      "completedAt": "2026-07-09T19:00:00Z",
+      "triggerType": "manual",
+      "sourcesChecked": 25,
+      "updatesCreated": 0,
+      "conflictsCreated": 0,
+      "errors": [],
+      "summary": "Initial WA-03-cloned build for MT-01, populated from primary-source research (Montana Secretary of State/VoteMT.gov, Missoula and Gallatin county election offices, and dated news reporting). All election events and voting rules remain marked needsReview: true and confidence: unconfirmed pending human QA, including re-verification of Kimberly Persico's independent-candidate ballot status after the August 20, 2026 certification deadline and confirmation of any updated ruling in the ongoing SB 490 litigation. Corrected the core-county list to remove Lewis and Clark County (MT-02) and use Missoula, Gallatin, and Flathead instead."
+    },
+    "NEXT_REFRESH_AT": "2026-07-14T04:00:00Z",
+    "WEEKLY_REPORT": {
+      "id": "wr-mt01-2026-w28",
+      "periodStart": "2026-07-09",
+      "periodEnd": "2026-07-09",
+      "sourcesChecked": 25,
+      "newUpdates": 3,
+      "conflictsCreated": 2,
+      "conflictsResolved": 0,
+      "deadlinesChanged": 0,
+      "rulesChanged": 0,
+      "newsItems": 6,
+      "needsReview": 17,
+      "sourceErrors": 0,
+      "summary": "Initial build for MT-01, cloned from the WA-03 dashboard template ahead of the November 3, 2026 general election. Open seat: Rep. Ryan Zinke (R) retired in March 2026 for health reasons; primary winners Aaron Flint (R) and Sam Forstag (D) will face off, with Libertarian Nick Sheedy holding automatic ballot access and independent Kimberly Persico's signature drive well short of the required threshold as of the May 26, 2026 filing deadline (final certification due Aug. 20, 2026). Corrected the district's core-county list: Lewis and Clark County (Helena) is in MT-02, not MT-01 — corrected core counties are Missoula, Gallatin, and Flathead. Key unresolved conflicts: (1) registration-deadline framing differs between VoteMT.gov's two-phase description and the EAC's single-line description; (2) Persico's final ballot status is not yet certified. General-election calendar anchored on VoteMT.gov's official voter calendar: regular registration closes Oct. 5, absentee ballots mailed Oct. 9, Election Day Nov. 3, absentee return deadline 8pm Nov. 3. SB 490's Election Day registration cutoff and Saturday-office-hours provisions remain enjoined by a May 11, 2026 preliminary injunction; SB 276's voter-ID tightening was not blocked and remains active. All 25 sources verified as of July 9, 2026. All events and rules flagged needsReview pending confirmation closer to Election Day.",
+      "generatedAt": "2026-07-09T18:00:00Z"
+    }
+  }
+}

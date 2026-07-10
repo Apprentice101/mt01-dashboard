@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-09",
   "updatedAt": "2026-07-09T19:00:00Z",
-  "exportedAt": "2026-07-09T23:19:35.978Z",
+  "exportedAt": "2026-07-10T21:02:22.808Z",
   "districtCode": "MT-01",
   "data": {
     "DISTRICT": {
@@ -536,7 +536,7 @@
           "src-mt-votemt-calendar",
           "src-mtfp-flint-forstag"
         ],
-        "confidence": "unconfirmed",
+        "confidence": "high",
         "lastVerified": "2026-07-09",
         "status": "estimated"
       },

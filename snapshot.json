@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-09",
-  "updatedAt": "2026-07-09T19:00:00Z",
-  "exportedAt": "2026-07-10T21:02:22.808Z",
+  "dataAsOf": "2026-07-10",
+  "updatedAt": "2026-07-10T21:42:29.569Z",
+  "exportedAt": "2026-07-10T21:46:46.525Z",
   "districtCode": "MT-01",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-10",
         "confidence": "unconfirmed",
         "notes": "Primary anchor for all 2026 general-election dates; includes explicit notice that SB 490's Saturday-office-hours provision is enjoined by court order."
       },
@@ -888,20 +888,30 @@
         "relevanceSummary": "Official confirmation of statewide primary turnout (~300,000, all precincts reporting) and a less-than-1% ballot-rejection rate ahead of the general election.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0goocjf",
+        "headline": "Can Republicans undistrict Montana's Native vote?",
+        "sourceName": "Montana Free Press",
+        "url": "https://montanafreepress.org/2026/07/09/can-republicans-undistrict-montanas-native-vote/",
+        "publishedAt": "2026-07-09",
+        "relevanceSummary": "This article examines a Republican-backed proposal to change how Montana’s Native voters are grouped for elections and describes legislative oversight of election administration and districting, which could alter how MT-01 voters—especially Native voters in western counties—are represented and how districts are configured statewide.[1]",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-09-mt-01-initial-build",
-      "startedAt": "2026-07-09T18:00:00Z",
-      "completedAt": "2026-07-09T19:00:00Z",
-      "triggerType": "manual",
-      "sourcesChecked": 25,
-      "updatesCreated": 0,
-      "conflictsCreated": 0,
+      "id": "run-2026-07-10-mt01-auto",
+      "startedAt": "2026-07-10T21:42:01.704Z",
+      "completedAt": "2026-07-10T21:42:29.569Z",
+      "triggerType": "scheduled",
+      "sourcesChecked": 6,
+      "updatesCreated": 1,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "Initial WA-03-cloned build for MT-01, populated from primary-source research (Montana Secretary of State/VoteMT.gov, Missoula and Gallatin county election offices, and dated news reporting). All election events and voting rules remain marked needsReview: true and confidence: unconfirmed pending human QA, including re-verification of Kimberly Persico's independent-candidate ballot status after the August 20, 2026 certification deadline and confirmation of any updated ruling in the ongoing SB 490 litigation. Corrected the core-county list to remove Lewis and Clark County (MT-02) and use Missoula, Gallatin, and Flathead instead."
+      "summary": "Automated refresh completed 2026-07-10 for MT-01. Sources checked: 6. LLM verifications: 7. 1 lastVerified bump on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-07-14T04:00:00Z",
+    "NEXT_REFRESH_AT": "2026-07-17T21:42:29.569Z",
     "WEEKLY_REPORT": {
       "id": "wr-mt01-2026-w28",
       "periodStart": "2026-07-09",

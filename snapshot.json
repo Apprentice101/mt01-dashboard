@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-10",
-  "updatedAt": "2026-07-10T21:42:29.569Z",
-  "exportedAt": "2026-07-10T21:46:46.525Z",
+  "dataAsOf": "2026-07-15",
+  "updatedAt": "2026-07-15T06:24:43.211Z",
+  "exportedAt": "2026-07-15T06:40:07.185Z",
   "districtCode": "MT-01",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-10",
+        "lastVerified": "2026-07-15",
         "confidence": "unconfirmed",
         "notes": "Primary anchor for all 2026 general-election dates; includes explicit notice that SB 490's Saturday-office-hours provision is enjoined by court order."
       },
@@ -104,7 +104,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-15",
         "confidence": "unconfirmed"
       },
       "src-mt-votemt-resolve": {
@@ -898,20 +898,30 @@
         "relevanceSummary": "This article examines a Republican-backed proposal to change how Montana’s Native voters are grouped for elections and describes legislative oversight of election administration and districting, which could alter how MT-01 voters—especially Native voters in western counties—are represented and how districts are configured statewide.[1]",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0fhykzz",
+        "headline": "Montana Free Press 2026 Election Guide: How to Vote in Montana",
+        "sourceName": "Montana Free Press",
+        "url": "https://projects.montanafreepress.org/election-guide-2026/",
+        "publishedAt": "2026-07-10",
+        "relevanceSummary": "This statewide guide explains Montana voting procedures for 2026, including who is eligible to vote, how to register, absentee/mail‑in options, voter ID requirements, polling hours (7 a.m. to 8 p.m.), and how to vote early at county election offices, all of which apply directly to MT‑01 voters.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-10-mt01-auto",
-      "startedAt": "2026-07-10T21:42:01.704Z",
-      "completedAt": "2026-07-10T21:42:29.569Z",
+      "id": "run-2026-07-15-mt01-auto",
+      "startedAt": "2026-07-15T06:24:15.590Z",
+      "completedAt": "2026-07-15T06:24:43.211Z",
       "triggerType": "scheduled",
       "sourcesChecked": 6,
       "updatesCreated": 1,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-10 for MT-01. Sources checked: 6. LLM verifications: 7. 1 lastVerified bump on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-07-15 for MT-01. Sources checked: 6. LLM verifications: 7. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-07-17T21:42:29.569Z",
+    "NEXT_REFRESH_AT": "2026-07-22T06:24:43.211Z",
     "WEEKLY_REPORT": {
       "id": "wr-mt01-2026-w28",
       "periodStart": "2026-07-09",

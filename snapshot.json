@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-15",
-  "updatedAt": "2026-07-15T06:24:43.211Z",
-  "exportedAt": "2026-07-15T06:40:07.185Z",
+  "dataAsOf": "2026-07-22",
+  "updatedAt": "2026-07-22T06:35:56.307Z",
+  "exportedAt": "2026-07-22T06:51:55.859Z",
   "districtCode": "MT-01",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "unconfirmed",
         "notes": "Primary anchor for all 2026 general-election dates; includes explicit notice that SB 490's Saturday-office-hours provision is enjoined by court order."
       },
@@ -104,7 +104,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "unconfirmed"
       },
       "src-mt-votemt-resolve": {
@@ -908,20 +908,60 @@
         "relevanceSummary": "This statewide guide explains Montana voting procedures for 2026, including who is eligible to vote, how to register, absentee/mail‑in options, voter ID requirements, polling hours (7 a.m. to 8 p.m.), and how to vote early at county election offices, all of which apply directly to MT‑01 voters.[1]",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-03fuu6q",
+        "headline": "Trump Ally Peter Ticktin Latest Attorney to Take On Bennett ...",
+        "sourceName": "Montana Independent",
+        "url": "https://montanaindependent.substack.com/p/trump-ally-peter-ticktin-latest-attorney",
+        "publishedAt": "2026-07-03",
+        "relevanceSummary": "This article discusses changes to Carbon County procedures for handling UOCAVA ballot documentation after concerns about document destruction. Carbon County is in Montana and the story is relevant to district voters because it concerns ballot retention and election-record procedures that affect military and overseas voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0mh1m5r",
+        "headline": "Montana's voter photo ID law will remain in effect after a court upheld the measure",
+        "sourceName": "NBC Montana",
+        "url": "https://www.facebook.com/NBCMontana/posts/montanas-voter-photo-id-law-will-remain-in-effect-after-a-court-upheld-the-measu/1636760551152005/",
+        "publishedAt": "2026-07-03",
+        "relevanceSummary": "This report covers the same statewide legal outcome as NBC Montana's article: Montana's voter photo ID law remains in effect after a court ruling. That is directly relevant to MT-01 voters because it governs in-person voting identification across the state.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0676fo7",
+        "headline": "Montana court upholds voter photo ID law",
+        "sourceName": "NBC Montana",
+        "url": "https://nbcmontana.com/news/local/montana-court-upholds-voter-photo-id-law",
+        "publishedAt": "2026-07-03",
+        "relevanceSummary": "This statewide court ruling directly affects all Montana voters, including those in MT-01, because it keeps Montana's voter photo ID requirement in force. It is relevant for voters who need to know what identification will be accepted at the polls and when voting by ballot.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0738hgr",
+        "headline": "Lincoln Co. election administrator placed on leave",
+        "sourceName": "The Western News",
+        "url": "https://thewesternnews.com/news/2026/jul/03/lincoln-co-election-administrator-placed-on-leave/",
+        "publishedAt": "2026-07-03",
+        "relevanceSummary": "This county-level election administration story matters to MT-01 voters because Lincoln County is in the district and county election staffing can affect ballot processing, poll logistics, and voter services. The article also references county-commission-approved drop-box procedures, making it directly relevant to ballot drop-off rules.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-15-mt01-auto",
-      "startedAt": "2026-07-15T06:24:15.590Z",
-      "completedAt": "2026-07-15T06:24:43.211Z",
+      "id": "run-2026-07-22-mt01-auto",
+      "startedAt": "2026-07-22T06:35:19.046Z",
+      "completedAt": "2026-07-22T06:35:56.307Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 6,
-      "updatesCreated": 1,
+      "sourcesChecked": 7,
+      "updatesCreated": 4,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-15 for MT-01. Sources checked: 6. LLM verifications: 7. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-07-22 for MT-01. Sources checked: 7. LLM verifications: 8. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-07-22T06:24:43.211Z",
+    "NEXT_REFRESH_AT": "2026-07-29T06:35:56.307Z",
     "WEEKLY_REPORT": {
       "id": "wr-mt01-2026-w28",
       "periodStart": "2026-07-09",

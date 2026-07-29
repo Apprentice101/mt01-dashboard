@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-22",
-  "updatedAt": "2026-07-22T06:35:56.307Z",
-  "exportedAt": "2026-07-22T21:16:51.613Z",
+  "dataAsOf": "2026-07-29",
+  "updatedAt": "2026-07-29T06:39:27.785Z",
+  "exportedAt": "2026-07-29T06:55:10.803Z",
   "districtCode": "MT-01",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "unconfirmed",
         "notes": "Primary anchor for all 2026 general-election dates; includes explicit notice that SB 490's Saturday-office-hours provision is enjoined by court order."
       },
@@ -104,7 +104,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "unconfirmed"
       },
       "src-mt-votemt-resolve": {
@@ -948,20 +948,60 @@
         "relevanceSummary": "This county-level election administration story matters to MT-01 voters because Lincoln County is in the district and county election staffing can affect ballot processing, poll logistics, and voter services. The article also references county-commission-approved drop-box procedures, making it directly relevant to ballot drop-off rules.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-020yqzr",
+        "headline": "Montana GOP formalizes opposition to 'The Montana Plan'",
+        "sourceName": "Daily Montanan",
+        "url": "https://dailymontanan.com/briefs/montana-gop-formalizes-opposition-to-the-montana-plan/",
+        "publishedAt": "2026-07-16",
+        "relevanceSummary": "The Montana Republican Party Executive Board passed a resolution opposing Initiative 194, \"The Montana Plan,\" a proposed statewide measure to limit election spending by corporations and other organizations, signaling a contested campaign-finance initiative that may appear on November ballots for MT-01 voters.[10]",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-09r2yuo",
+        "headline": "Montana leaders respond to U.S. Supreme Court ruling loosening campaign spending restrictions",
+        "sourceName": "KTVH",
+        "url": "https://www.ktvh.com/news/montana-politics/montana-leaders-respond-to-u-s-supreme-court-ruling-loosening-campaign-spending-restrictions",
+        "publishedAt": "2026-07-12",
+        "relevanceSummary": "Montana officials and political leaders react to a U.S. Supreme Court decision allowing political parties to coordinate unlimited spending with candidates, an election-law ruling that affects how campaigns in races including MT-01 can be financed and run.[11]",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0okh7v9",
+        "headline": "Your Montana Voter Resource Guide",
+        "sourceName": "AARP Montana",
+        "url": "https://www.aarp.org/states/montana/montanas-2026-elections/",
+        "publishedAt": "2026-07-10",
+        "relevanceSummary": "AARP’s guide summarizes Montana’s voter registration deadlines, absentee ballot application and return timelines, early in‑person voting procedures, and polling place ID expectations, and notes that voting-law changes from the 2025 legislative session are under legal challenge, which may affect rules for MT-01 voters.[7]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-047ziha",
+        "headline": "The ballot questions likely to come before voters in November",
+        "sourceName": "Bozeman Daily Chronicle",
+        "url": "https://www.bozemandailychronicle.com/news/the-ballot-questions-likely-to-come-before-voters-in-november/article_ebedae9d-5e21-490e-87fa-b7fc92d2aac2.html",
+        "publishedAt": "2026-07-09",
+        "relevanceSummary": "This article outlines statewide initiatives, including efforts like Montanans for Nonpartisan Courts gathering more than 102,000 signatures, that are likely to appear on the November ballot, informing MT-01 voters about potential ballot questions and the petition thresholds governing statewide measures.[8]",
+        "tag": "ballot-access",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-22-mt01-auto",
-      "startedAt": "2026-07-22T06:35:19.046Z",
-      "completedAt": "2026-07-22T06:35:56.307Z",
+      "id": "run-2026-07-29-mt01-auto",
+      "startedAt": "2026-07-29T06:38:48.904Z",
+      "completedAt": "2026-07-29T06:39:27.785Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 7,
+      "sourcesChecked": 6,
       "updatesCreated": 4,
-      "conflictsCreated": 1,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-22 for MT-01. Sources checked: 7. LLM verifications: 8. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-07-29 for MT-01. Sources checked: 6. LLM verifications: 7. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-29T06:35:56.307Z",
+    "NEXT_REFRESH_AT": "2026-08-05T06:39:27.785Z",
     "WEEKLY_REPORT": {
       "id": "wr-mt01-2026-w28",
       "periodStart": "2026-07-09",

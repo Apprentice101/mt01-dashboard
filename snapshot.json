@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-29",
-  "updatedAt": "2026-07-29T06:39:27.785Z",
-  "exportedAt": "2026-07-29T06:55:10.803Z",
+  "dataAsOf": "2026-08-05",
+  "updatedAt": "2026-08-05T06:33:01.453Z",
+  "exportedAt": "2026-08-05T06:48:57.477Z",
   "districtCode": "MT-01",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "unconfirmed",
         "notes": "Primary anchor for all 2026 general-election dates; includes explicit notice that SB 490's Saturday-office-hours provision is enjoined by court order."
       },
@@ -240,7 +240,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-08-05",
         "confidence": "unconfirmed",
         "notes": "Requires wet-ink (non-digital) signature on any ballot-rejection-resolution or replacement-ballot form. Drop-box locations not itemized on this page (needsReview)."
       },
@@ -988,20 +988,30 @@
         "relevanceSummary": "This article outlines statewide initiatives, including efforts like Montanans for Nonpartisan Courts gathering more than 102,000 signatures, that are likely to appear on the November ballot, informing MT-01 voters about potential ballot questions and the petition thresholds governing statewide measures.[8]",
         "tag": "ballot-access",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0mm6m1e",
+        "headline": "Montana Secretary of State certifies three independent candidates meet ballot requirements",
+        "sourceName": "Daily Montanan",
+        "url": "https://dailymontanan.com/briefs/montana-secretary-of-state-certifies-three-independent-candidates-meet-ballot-requirements/",
+        "publishedAt": "2026-07-30",
+        "relevanceSummary": "The Secretary of State said three independent candidates, including Michael Eisenhauer in Montana’s eastern congressional district, met the signature requirements to appear on the November ballot. That matters to MT-01 voters because it confirms statewide ballot-access rules that shape the general-election field in Montana.",
+        "tag": "ballot-access",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-29-mt01-auto",
-      "startedAt": "2026-07-29T06:38:48.904Z",
-      "completedAt": "2026-07-29T06:39:27.785Z",
+      "id": "run-2026-08-05-mt01-auto",
+      "startedAt": "2026-08-05T06:32:34.502Z",
+      "completedAt": "2026-08-05T06:33:01.453Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 6,
-      "updatesCreated": 4,
-      "conflictsCreated": 0,
+      "sourcesChecked": 7,
+      "updatesCreated": 1,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-29 for MT-01. Sources checked: 6. LLM verifications: 7. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-05 for MT-01. Sources checked: 7. LLM verifications: 7. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-08-05T06:39:27.785Z",
+    "NEXT_REFRESH_AT": "2026-08-12T06:33:01.453Z",
     "WEEKLY_REPORT": {
       "id": "wr-mt01-2026-w28",
       "periodStart": "2026-07-09",

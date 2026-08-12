@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-05",
-  "updatedAt": "2026-08-05T06:33:01.453Z",
-  "exportedAt": "2026-08-05T06:48:57.477Z",
+  "dataAsOf": "2026-08-12",
+  "updatedAt": "2026-08-12T05:34:46.599Z",
+  "exportedAt": "2026-08-12T05:48:15.029Z",
   "districtCode": "MT-01",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "unconfirmed",
         "notes": "Primary anchor for all 2026 general-election dates; includes explicit notice that SB 490's Saturday-office-hours provision is enjoined by court order."
       },
@@ -104,7 +104,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-12",
         "confidence": "unconfirmed"
       },
       "src-mt-votemt-resolve": {
@@ -998,20 +998,80 @@
         "relevanceSummary": "The Secretary of State said three independent candidates, including Michael Eisenhauer in Montana’s eastern congressional district, met the signature requirements to appear on the November ballot. That matters to MT-01 voters because it confirms statewide ballot-access rules that shape the general-election field in Montana.",
         "tag": "ballot-access",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0xoejx8",
+        "headline": "No withdrawals, stage set for Montana U.S. Senate election in November",
+        "sourceName": "Montana Right Now",
+        "url": "https://www.montanarightnow.com/missoula/no-withdrawals-stage-set-for-montana-u-s-senate-election-in-november/video_576facc7-7cdd-5418-8388-9659540f7980.html",
+        "publishedAt": "2026-08-10",
+        "relevanceSummary": "This Missoula-focused report says no candidates withdrew by the ballot deadline, leaving the Senate field set for November. While centered on the statewide Senate race rather than MT-01 directly, it still matters to district voters because it confirms the final November ballot lineup they will see.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0hm1xyf",
+        "headline": "Montana's Democratic candidate is facing pressure to drop out by the deadline",
+        "sourceName": "VPM News / NPR",
+        "url": "https://www.vpm.org/npr-news/npr-news/2026-08-09/montanas-democratic-candidate-is-facing-pressure-to-drop-out-by-the-deadline",
+        "publishedAt": "2026-08-09",
+        "relevanceSummary": "This piece covers the same statewide ballot-withdrawal deadline and notes that Monday, Aug. 10, is the cutoff to remove names from Montana’s ballot. That procedural deadline affects the final general-election ballot for MT-01 voters as part of the statewide Montana ballot.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0zcy8ux",
+        "headline": "Bodnar vows to stay in Senate race; Bankhead not withdrawing either",
+        "sourceName": "KTVH",
+        "url": "https://www.ktvh.com/news/montana-politics/bodnar-vows-to-stay-in-senate-race-bankhead-not-withdrawing-either",
+        "publishedAt": "2026-08-08",
+        "relevanceSummary": "This Montana politics report says both major Senate candidates were not withdrawing ahead of the deadline, which determines the final statewide ballot configuration. MT-01 voters are affected because this is part of the ballot they will vote on in November.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0x1ssh7",
+        "headline": "Montana Democrats push Bankhead to drop out of U.S. Senate race",
+        "sourceName": "Daily Montanan",
+        "url": "https://dailymontanan.com/2026/08/08/montana-dem-lawmakers-call-for-bankhead-to-drop-out-of-u-s-senate-race/",
+        "publishedAt": "2026-08-08",
+        "relevanceSummary": "This reports on the statewide deadline for candidates to withdraw from Montana’s November ballot, which affects how the general-election ballot will be finalized for all Montana voters, including those in MT-01. The article says the withdrawal deadline is Monday at 5 p.m. and focuses on the pressure campaign around the Democratic Senate nominee.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0bmf1ft",
+        "headline": "Montanan launches write-in bid to ensure Senate ballot line",
+        "sourceName": "Bozeman Daily Chronicle",
+        "url": "https://www.bozemandailychronicle.com/news/politics/a-line-on-the-ballot-montanan-files-write-in-bid-for-senate-after-law-axes/article_5757964d-58b3-4cd3-a492-4a3da1be4bc8.html",
+        "publishedAt": "2026-08-07",
+        "relevanceSummary": "This explains Montana’s write-in candidacy rules and says the new law requires write-in candidates to file a declaration of intent 90 days before the election, otherwise no blank write-in line appears on the ballot. That is directly relevant to MT-01 voters because it affects what options appear on the November general ballot statewide.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0il09w4",
+        "headline": "Withdrawal deadline approaches for Montana's U.S. Senate candidates",
+        "sourceName": "Yellowstone Public Radio",
+        "url": "https://www.ypradio.org/government-politics/2026-08-07/withdrawal-deadline-approaches-for-montanas-u-s-senate-candidates",
+        "publishedAt": "2026-08-07",
+        "relevanceSummary": "This statewide election-procedures story tells voters when candidates can still remove their names from Montana’s November ballot. That ballot-finalization deadline matters to MT-01 voters because it determines which candidates will appear on the general-election ballot they receive.",
+        "tag": "candidates",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-05-mt01-auto",
-      "startedAt": "2026-08-05T06:32:34.502Z",
-      "completedAt": "2026-08-05T06:33:01.453Z",
+      "id": "run-2026-08-12-mt01-auto",
+      "startedAt": "2026-08-12T05:34:22.550Z",
+      "completedAt": "2026-08-12T05:34:46.599Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 7,
-      "updatesCreated": 1,
-      "conflictsCreated": 1,
+      "sourcesChecked": 6,
+      "updatesCreated": 6,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-05 for MT-01. Sources checked: 7. LLM verifications: 7. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-08-12 for MT-01. Sources checked: 6. LLM verifications: 6. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-12T06:33:01.453Z",
+    "NEXT_REFRESH_AT": "2026-08-19T05:34:46.599Z",
     "WEEKLY_REPORT": {
       "id": "wr-mt01-2026-w28",
       "periodStart": "2026-07-09",

@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-19",
-  "updatedAt": "2026-08-19T04:48:40.362Z",
-  "exportedAt": "2026-08-19T05:08:40.661Z",
+  "dataAsOf": "2026-08-26",
+  "updatedAt": "2026-08-26T04:53:38.537Z",
+  "exportedAt": "2026-08-26T05:16:32.767Z",
   "districtCode": "MT-01",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "unconfirmed",
         "notes": "Primary anchor for all 2026 general-election dates; includes explicit notice that SB 490's Saturday-office-hours provision is enjoined by court order."
       },
@@ -104,7 +104,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "unconfirmed"
       },
       "src-mt-votemt-resolve": {
@@ -240,7 +240,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-26",
         "confidence": "unconfirmed",
         "notes": "Requires wet-ink (non-digital) signature on any ballot-rejection-resolution or replacement-ballot form. Drop-box locations not itemized on this page (needsReview)."
       },
@@ -1088,20 +1088,90 @@
         "relevanceSummary": "This statewide election-administration page is relevant to MT-01 voters because the Secretary of State sets rules and publishes information used across Montana, including election information and poll-worker recruitment. The page specifically notes a call for eligible community members to serve as poll workers for Montana elections.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0vmqvbw",
+        "headline": "Student ID as Voter ID",
+        "sourceName": "Campus Vote Project",
+        "url": "https://campusvoteproject.org/student-id-as-voter-id/",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "This resource explains that Montana’s 2025 SB 276 restored certain student IDs as acceptable standalone voter ID for voting, while limiting valid student IDs to those from the Montana University System and NAIA institutions, clarifying voter‑ID rules that affect student voters in MT‑01.[8]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-01cu0ha",
+        "headline": "Campaign spending, judicial elections initiatives to appear on November ballot",
+        "sourceName": "Montana Public Radio (MTPR)",
+        "url": "https://www.mtpr.org/montana-news/2026-08-24/campaign-spending-judicial-elections-initiatives-to-appear-on-november-ballot",
+        "publishedAt": "2026-08-24",
+        "relevanceSummary": "This report notes that the Montana Secretary of State has certified federal and state candidates and that local governments have certified their own candidates, confirming the finalized slate of contests and initiatives MT‑01 voters will see in November.[10]",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-05ve19l",
+        "headline": "The Daily Roundup: Ballot Certification Tees Up Beginning of Election Season",
+        "sourceName": "Flathead Beacon",
+        "url": "https://flatheadbeacon.com/newsletters/the-daily-roundup-ballot-certification-tees-up-beginning-of-election-season/",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "This newsletter highlights Montana’s August 20 ballot certification deadline, when the Secretary of State and county election administrators finalize candidate lists and ballot issues, marking the start of the general‑election process for voters in Flathead County and the wider MT‑01 region.[2]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-02s52kh",
+        "headline": "'Chaos' clutches Republican ranks",
+        "sourceName": "Montana Free Press",
+        "url": "https://montanafreepress.org/2026/08/20/chaos-clutches-republican-ranks/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This article describes how a Montana Supreme Court decision and an injunction affected whether certain Republican candidates would appear on the November ballot, explaining candidate qualification and ballot‑certification decisions that shape MT‑01 voters’ choices.[7]",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0xapf99",
+        "headline": "With Bipartisan Support, Montanans Decide Announces Ballot Certification for CI-133 Measure",
+        "sourceName": "EIN Presswire",
+        "url": "https://www.einpresswire.com/article/935570541/with-bipartisan-support-montanans-decide-announces-ballot-certification-for-ci-133-measure",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This story reports that citizen initiative CI‑133 has been certified by the Montana Secretary of State to appear on the November ballot, informing MT‑01 voters about a newly confirmed statewide ballot measure they will see and need to evaluate.[3]",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0d4l3xb",
+        "headline": "Pre-18 Registration Laws by State",
+        "sourceName": "The Civics Center",
+        "url": "https://www.thecivicscenter.org/prereg",
+        "publishedAt": "2026-08-19",
+        "relevanceSummary": "This overview clarifies Montana’s rule that voters must be 18 by the November 3, 2026 general election to register, providing MT‑01 youth and new voters with guidance on age‑based voter registration eligibility.[9]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0fflfac",
+        "headline": "Over the past two weeks, four new ballot measures in Colorado and Montana, and one removed in Arizona",
+        "sourceName": "Ballotpedia News via NewsBreak",
+        "url": "https://www.newsbreak.com/ballotpedia-news-1529859/4838635802243-over-the-past-two-weeks-four-new-ballot-measures-in-colorado-and-montana-and-one-removed-in-arizona",
+        "publishedAt": "2026-08-19",
+        "relevanceSummary": "This roundup notes that four new ballot measures were certified in Colorado and Montana, giving MT‑01 voters an overview of additional statewide measures that have qualified for their November ballot.[4]",
+        "tag": "ballot-access",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-19-mt01-auto",
-      "startedAt": "2026-08-19T04:47:58.234Z",
-      "completedAt": "2026-08-19T04:48:40.362Z",
+      "id": "run-2026-08-26-mt01-auto",
+      "startedAt": "2026-08-26T04:52:47.958Z",
+      "completedAt": "2026-08-26T04:53:38.537Z",
       "triggerType": "scheduled",
       "sourcesChecked": 6,
-      "updatesCreated": 3,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-19 for MT-01. Sources checked: 6. LLM verifications: 6. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-26 for MT-01. Sources checked: 6. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-26T04:48:40.362Z",
+    "NEXT_REFRESH_AT": "2026-09-02T04:53:38.537Z",
     "WEEKLY_REPORT": {
       "id": "wr-mt01-2026-w28",
       "periodStart": "2026-07-09",

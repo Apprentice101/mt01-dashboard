@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-26",
-  "updatedAt": "2026-08-26T04:53:38.537Z",
-  "exportedAt": "2026-08-26T05:16:32.767Z",
+  "dataAsOf": "2026-09-02",
+  "updatedAt": "2026-09-02T08:40:55.022Z",
+  "exportedAt": "2026-09-02T09:10:25.424Z",
   "districtCode": "MT-01",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed",
         "notes": "Primary anchor for all 2026 general-election dates; includes explicit notice that SB 490's Saturday-office-hours provision is enjoined by court order."
       },
@@ -104,7 +104,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed"
       },
       "src-mt-votemt-resolve": {
@@ -240,7 +240,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed",
         "notes": "Requires wet-ink (non-digital) signature on any ballot-rejection-resolution or replacement-ballot form. Drop-box locations not itemized on this page (needsReview)."
       },
@@ -1158,20 +1158,90 @@
         "relevanceSummary": "This roundup notes that four new ballot measures were certified in Colorado and Montana, giving MT‑01 voters an overview of additional statewide measures that have qualified for their November ballot.[4]",
         "tag": "ballot-access",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0nry5gz",
+        "headline": "Judge: Data center limit initiative in Butte-Silver Bow off November ballot",
+        "sourceName": "NBC Montana",
+        "url": "https://nbcmontana.com/news/local/judge-data-center-limit-initiative-in-butte-silver-bow-off-november-ballot",
+        "publishedAt": "2026-09-01",
+        "relevanceSummary": "Reporting on the same Butte-Silver Bow case, this article details how an incorrect August 14 signature deadline given by the elections administrator was later corrected to July 13 under state law, and why the judge still removed the initiative from the ballot; it underscores for MT-01 voters the importance of statutory timelines and administrative communications for qualifying measures for the November ballot.[1][8]",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0w9pqgz",
+        "headline": "Court rejects Butte data center ballot initiative",
+        "sourceName": "Montana Free Press",
+        "url": "https://montanafreepress.org/2026/09/01/butte-data-center-initiative/",
+        "publishedAt": "2026-09-01",
+        "relevanceSummary": "A state district court upheld the Butte-Silver Bow election administrator’s decision that initiative supporters missed the statutory deadline for submitting petition signatures, keeping the measure off the November ballot; this clarifies how signature deadlines and ballot-qualification rules are enforced for local measures, which is directly relevant to MT-01 voters following local and county initiatives.[1][8]",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-05sfkpd",
+        "headline": "Voter Registration",
+        "sourceName": "Yellowstone County Election Office",
+        "url": "https://www.yellowstonecountymt.gov/elections/forms/registration.asp",
+        "publishedAt": "2026-08-29",
+        "relevanceSummary": "This county election office page explains how Montana voters can register or request absentee ballots, including the need for an original signature and guidance on alternative identification documents if a voter lacks a Montana driver’s license or Social Security number, information that reflects statewide registration and ID practices that also apply to MT-01 voters.[2]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0wc2o4v",
+        "headline": "Montana Republican Party bylaws contradict state law, judge says",
+        "sourceName": "Daily Montanan",
+        "url": "https://dailymontanan.com/2026/08/27/montana-republican-party-bylaws-contradict-state-law-judge-says/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "A judge found that parts of the Montana Republican Party’s bylaws regarding committee representative terms conflict with state law, which specifies two-year terms from the date of election or appointment; while focused on party governance, this ruling matters to MT-01 voters because it clarifies legal constraints on party structures that can affect candidate selection and compliance with election statutes.[4]",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0a4f6e7",
+        "headline": "Commissioners propose 6 year terms",
+        "sourceName": "Bitterroot Star",
+        "url": "https://bitterrootstar.com/2026/08/commissioners-propose-6-year-terms/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "Ravalli County commissioners approved an ordinance placing a question on the November ballot asking voters to switch county commissioner terms from four to six years, outlining the ballot language and timing; MT-01 voters in Ravalli County need to know about this local ballot measure and its procedures to participate in the county governance change.[3]",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0i7c0fb",
+        "headline": "Election Aide",
+        "sourceName": "Missoula County / University of Montana Career Hub",
+        "url": "https://careerhub.umt.edu/jobs/missoula-county-election-aide/",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "This posting for a Missoula County election aide role notes responsibilities including organizing and delivering election supplies and preparing and processing absentee ballots, indicating active planning for absentee/mail‑ballot handling and polling logistics that directly shape voting procedures for MT-01 residents in Missoula County.[12]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0ukmyfk",
+        "headline": "Election Assistant",
+        "sourceName": "Missoula County / University of Montana Career Hub",
+        "url": "https://careerhub.umt.edu/jobs/missoula-county-election-assistant/",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "The job posting for a Missoula County election assistant describes duties such as preparing election mailings and materials for general, primary, school, and special elections, reflecting ongoing administrative preparations and staffing for election operations that affect how ballots and voter communications are processed for MT-01 voters in Missoula County.[7]",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-26-mt01-auto",
-      "startedAt": "2026-08-26T04:52:47.958Z",
-      "completedAt": "2026-08-26T04:53:38.537Z",
+      "id": "run-2026-09-02-mt01-auto",
+      "startedAt": "2026-09-02T08:39:58.093Z",
+      "completedAt": "2026-09-02T08:40:55.022Z",
       "triggerType": "scheduled",
       "sourcesChecked": 6,
       "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-26 for MT-01. Sources checked: 6. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-02 for MT-01. Sources checked: 6. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-02T04:53:38.537Z",
+    "NEXT_REFRESH_AT": "2026-09-09T08:40:55.022Z",
     "WEEKLY_REPORT": {
       "id": "wr-mt01-2026-w28",
       "periodStart": "2026-07-09",

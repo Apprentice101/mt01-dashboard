@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-02",
-  "updatedAt": "2026-09-02T08:40:55.022Z",
-  "exportedAt": "2026-09-02T09:10:25.424Z",
+  "dataAsOf": "2026-09-09",
+  "updatedAt": "2026-09-09T08:54:39.349Z",
+  "exportedAt": "2026-09-09T09:20:46.811Z",
   "districtCode": "MT-01",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed",
         "notes": "Primary anchor for all 2026 general-election dates; includes explicit notice that SB 490's Saturday-office-hours provision is enjoined by court order."
       },
@@ -104,7 +104,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed"
       },
       "src-mt-votemt-resolve": {
@@ -1228,20 +1228,80 @@
         "relevanceSummary": "The job posting for a Missoula County election assistant describes duties such as preparing election mailings and materials for general, primary, school, and special elections, reflecting ongoing administrative preparations and staffing for election operations that affect how ballots and voter communications are processed for MT-01 voters in Missoula County.[7]",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0sngshj",
+        "headline": "County elections office expanding hours ahead of November election",
+        "sourceName": "The Electric",
+        "url": "https://theelectricgf.com/2026/09/08/county-elections-office-expanding-hours-ahead-of-november-election/",
+        "publishedAt": "2026-09-08",
+        "relevanceSummary": "This local report describes a Montana county elections office extending its hours and outlining dates for same-day registration and early counting of absentee ballots, illustrating how county-level election administrators are organizing voter services and ballot processing, which can serve as a model or precedent for other Montana counties including those in MT-01.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0oxvc37",
+        "headline": "Mail-in ballots go out as Trump asks Supreme Court to lift USPS voting plan block",
+        "sourceName": "NBC Montana",
+        "url": "https://nbcmontana.com/news/nation-world/mail-in-ballots-trump-supreme-court-usps-voting-plan-block",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "NBC Montana reports on mail-in ballots being sent to voters and a Supreme Court request concerning a USPS voting plan, noting that mail voting remains governed by each state’s existing rules, which provides Montana voters with important background on potential federal-level changes that could affect mail-ballot handling but not current Montana procedures.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0lidqrp",
+        "headline": "Pre-Processing Timelines, Update Fall 2026: Montana",
+        "sourceName": "Center for Election Innovation & Research",
+        "url": "https://electioninnovation.org/research/pre-processing-timelines/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This research update details Montana’s rules for processing absentee and mail ballots, including when officials may process envelopes, open secrecy envelopes, and begin scanning ballots before Election Day, informing MT-01 voters about how and when their mailed ballots are handled and counted under statewide law.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0f41suk",
+        "headline": "Legislators subpoena Secretary of State for details on voter rolls sent to the feds",
+        "sourceName": "Montana Public Radio (MTPR)",
+        "url": "https://www.mtpr.org/montana-news/2026-09-04/legislators-subpoena-secretary-of-state-for-details-on-voter-rolls-sent-to-the-feds",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "MTPR covers the legislative subpoena seeking information on Montana’s voter rolls that were provided to the U.S. Department of Justice, including sensitive identifiers requested by federal officials, highlighting statewide concerns about how voter registration data is handled and overseen by the Secretary of State, which is relevant to MT-01 voters’ confidence in election administration.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0cmyppt",
+        "headline": "Montana election preview, 2026",
+        "sourceName": "Ballotpedia",
+        "url": "https://ballotpedia.org/Montana_election_preview,_2026",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "The preview outlines Montana’s 2026 election procedures, including voter ID requirements at polling places and standard polling hours on Election Day, offering MT-01 voters a concise statewide overview of in-person voting rules for the November general.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0keahvs",
+        "headline": "Legislators to Subpoena Secretary of State Over Voter Data Handoff",
+        "sourceName": "Flathead Beacon",
+        "url": "https://flatheadbeacon.com/2026/09/03/legislators-to-subpoena-secretary-of-state-over-voter-data-handoff/",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "This article reports that Montana legislators plan to subpoena the Secretary of State over the transfer of the state’s full voter file — including driver’s license numbers, partial Social Security numbers, and birth dates — to federal officials, raising concerns about voter data security and election administration practices that directly affect all Montana voters, including those in MT-01.",
+        "tag": "security",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-02-mt01-auto",
-      "startedAt": "2026-09-02T08:39:58.093Z",
-      "completedAt": "2026-09-02T08:40:55.022Z",
+      "id": "run-2026-09-09-mt01-auto",
+      "startedAt": "2026-09-09T08:53:51.141Z",
+      "completedAt": "2026-09-09T08:54:39.349Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 6,
-      "updatesCreated": 7,
+      "sourcesChecked": 5,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-02 for MT-01. Sources checked: 6. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-09 for MT-01. Sources checked: 5. LLM verifications: 5. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-09T08:40:55.022Z",
+    "NEXT_REFRESH_AT": "2026-09-16T08:54:39.349Z",
     "WEEKLY_REPORT": {
       "id": "wr-mt01-2026-w28",
       "periodStart": "2026-07-09",

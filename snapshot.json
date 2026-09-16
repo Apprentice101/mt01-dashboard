@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-09",
-  "updatedAt": "2026-09-09T08:54:39.349Z",
-  "exportedAt": "2026-09-09T09:20:46.811Z",
+  "dataAsOf": "2026-09-16",
+  "updatedAt": "2026-09-16T09:22:04.821Z",
+  "exportedAt": "2026-09-16T09:52:08.659Z",
   "districtCode": "MT-01",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "unconfirmed",
         "notes": "Primary anchor for all 2026 general-election dates; includes explicit notice that SB 490's Saturday-office-hours provision is enjoined by court order."
       },
@@ -104,7 +104,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "unconfirmed"
       },
       "src-mt-votemt-resolve": {
@@ -1288,20 +1288,60 @@
         "relevanceSummary": "This article reports that Montana legislators plan to subpoena the Secretary of State over the transfer of the state’s full voter file — including driver’s license numbers, partial Social Security numbers, and birth dates — to federal officials, raising concerns about voter data security and election administration practices that directly affect all Montana voters, including those in MT-01.",
         "tag": "security",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-04fsasf",
+        "headline": "Billings activists applaud Supreme Court ruling on mail-in voting",
+        "sourceName": "KTVQ",
+        "url": "https://www.ktvq.com/news/billings-activists-applaud-supreme-court-ruling-on-mail-in-voting",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "This story says Montana’s general mail voter-registration deadline is Oct. 5 and that voters can register through voter-registration organizations up to that date. That statewide deadline applies to MT-01 voters and is directly useful for anyone needing to update registration before the November general.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0wwsg7v",
+        "headline": "Supreme Court blocks Trump mail-in ballot plan",
+        "sourceName": "Politico",
+        "url": "https://www.politico.com/news/2026/09/14/supreme-court-blocks-trump-mail-in-ballot-plan-01076079",
+        "publishedAt": "2026-09-14",
+        "relevanceSummary": "Politico reports that the Supreme Court rejected the administration’s attempt to impose new mail-ballot delivery requirements that could have disrupted midterm voting. Montana voters in MT-01 are affected because any federal mail-ballot change would have altered how absentee ballots are processed statewide.",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0xbo64t",
+        "headline": "The Supreme Court won't allow midterm mail-in voting limits",
+        "sourceName": "NPR",
+        "url": "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
+        "publishedAt": "2026-09-14",
+        "relevanceSummary": "NPR reports that the Supreme Court let a lower-court block stand, meaning the U.S. Postal Service is expected to keep delivering ballots as usual. That matters to MT-01 voters because Montana relies heavily on absentee/mail voting and county election offices were already preparing ballots under existing procedures.",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-02gxlho",
+        "headline": "Montana Counties Face Absentee Ballot Printing Issues Amid USPS Rule",
+        "sourceName": "Kitchen Table News",
+        "url": "https://www.kitchentablenews.org/montana-news/montana-counties-face-absentee-ballot-printing-issues-amid-usps-rule/",
+        "publishedAt": "2026-09-10",
+        "relevanceSummary": "Montana county election officials were already printing absentee ballot return envelopes statewide while federal mail-screening plans were in flux, which directly affects how MT-01 voters will receive and return mail ballots. The article says counties planned to mail ballots on Oct. 9, making the state’s absentee-ballot logistics immediately relevant to voters in western Montana.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-09-mt01-auto",
-      "startedAt": "2026-09-09T08:53:51.141Z",
-      "completedAt": "2026-09-09T08:54:39.349Z",
+      "id": "run-2026-09-16-mt01-auto",
+      "startedAt": "2026-09-16T09:21:12.068Z",
+      "completedAt": "2026-09-16T09:22:04.821Z",
       "triggerType": "scheduled",
       "sourcesChecked": 5,
-      "updatesCreated": 6,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-09 for MT-01. Sources checked: 5. LLM verifications: 5. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-16 for MT-01. Sources checked: 5. LLM verifications: 6. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-16T08:54:39.349Z",
+    "NEXT_REFRESH_AT": "2026-09-23T09:22:04.821Z",
     "WEEKLY_REPORT": {
       "id": "wr-mt01-2026-w28",
       "periodStart": "2026-07-09",

@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-16",
-  "updatedAt": "2026-09-16T09:22:04.821Z",
-  "exportedAt": "2026-09-16T09:52:08.659Z",
+  "dataAsOf": "2026-09-23",
+  "updatedAt": "2026-09-23T09:17:21.204Z",
+  "exportedAt": "2026-09-23T09:38:34.783Z",
   "districtCode": "MT-01",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "unconfirmed",
         "notes": "Primary anchor for all 2026 general-election dates; includes explicit notice that SB 490's Saturday-office-hours provision is enjoined by court order."
       },
@@ -153,7 +153,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-09-23",
         "confidence": "unconfirmed"
       },
       "src-mt-sos-military-overseas": {
@@ -290,7 +290,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-09-23",
         "confidence": "unconfirmed",
         "notes": "Plaintiff-side advocacy source; corroborates the May 11, 2026 preliminary injunction against SB 490."
       },
@@ -1328,20 +1328,60 @@
         "relevanceSummary": "Montana county election officials were already printing absentee ballot return envelopes statewide while federal mail-screening plans were in flux, which directly affects how MT-01 voters will receive and return mail ballots. The article says counties planned to mail ballots on Oct. 9, making the state’s absentee-ballot logistics immediately relevant to voters in western Montana.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0q4g786",
+        "headline": "Federal Judge Blocks Montana’s AI Campaign Ad Law",
+        "sourceName": "Daily Montanan",
+        "url": "https://ground.news/article/federal-judge-says-ai-deepfake-election-law-violates-first-amendment",
+        "publishedAt": "2026-09-23",
+        "relevanceSummary": "A federal judge ruled against Montana’s law regulating AI-generated deepfake campaign advertisements. The statewide election-law ruling may affect political communications and enforcement during the 2026 general election, including in MT-01.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-09quxwh",
+        "headline": "Montana Ban Would Strike at Political Spending, and the ...",
+        "sourceName": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/17/us/politics/montana-ballot-political-spending-ban.html",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The article reports that Montana voters will decide whether to prohibit businesses, unions, and nonprofit groups from donating to candidates or parties. This statewide ballot-access and election-law measure will appear before MT-01 voters.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0r92jex",
+        "headline": "Jacobsen shares what Jacobsen shared",
+        "sourceName": "Montana Free Press",
+        "url": "https://montanafreepress.org/2026/09/17/jacobsen-shares-what-jacobsen-shared/",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The article reports that voter data shared with the federal government included the last four digits of some voters’ Social Security numbers, used as a substitute for a driver’s-license number during registration. This concerns statewide Montana voter-registration administration and therefore affects MT-01 voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0t661q4",
+        "headline": "Legals for September, 17 2026",
+        "sourceName": "Lake County Leader Advertiser",
+        "url": "https://leaderadvertiser.com/news/2026/sep/17/13-legals-for-september-17-2026/",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "Lake County’s election notice provides voter-registration, late-registration, absentee-ballot, ballot-return, polling-hours, and election-office drop-off procedures. Lake County is within Montana’s 1st Congressional District, making these instructions directly relevant to MT-01 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-16-mt01-auto",
-      "startedAt": "2026-09-16T09:21:12.068Z",
-      "completedAt": "2026-09-16T09:22:04.821Z",
+      "id": "run-2026-09-23-mt01-auto",
+      "startedAt": "2026-09-23T09:16:07.110Z",
+      "completedAt": "2026-09-23T09:17:21.204Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 5,
+      "sourcesChecked": 9,
       "updatesCreated": 4,
-      "conflictsCreated": 0,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-16 for MT-01. Sources checked: 5. LLM verifications: 6. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-23 for MT-01. Sources checked: 9. LLM verifications: 9. 3 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-09-23T09:22:04.821Z",
+    "NEXT_REFRESH_AT": "2026-09-30T09:17:21.204Z",
     "WEEKLY_REPORT": {
       "id": "wr-mt01-2026-w28",
       "periodStart": "2026-07-09",

@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-23",
-  "updatedAt": "2026-09-23T09:17:21.204Z",
-  "exportedAt": "2026-09-23T09:38:34.783Z",
+  "dataAsOf": "2026-09-30",
+  "updatedAt": "2026-09-30T10:21:29.489Z",
+  "exportedAt": "2026-09-30T10:39:02.282Z",
   "districtCode": "MT-01",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "unconfirmed",
         "notes": "Primary anchor for all 2026 general-election dates; includes explicit notice that SB 490's Saturday-office-hours provision is enjoined by court order."
       },
@@ -303,7 +303,7 @@
         "sourceType": "news",
         "hierarchyLevel": 6,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-09-30",
         "confidence": "unconfirmed",
         "notes": "Reports Judge Adam Larsen's May 11, 2026 preliminary injunction blocking SB 490 statewide as likely unconstitutional."
       },
@@ -1368,20 +1368,80 @@
         "relevanceSummary": "Lake County’s election notice provides voter-registration, late-registration, absentee-ballot, ballot-return, polling-hours, and election-office drop-off procedures. Lake County is within Montana’s 1st Congressional District, making these instructions directly relevant to MT-01 voters.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-05iw8d8",
+        "headline": "6 legals for September 30, 2026",
+        "sourceName": "Daily Inter Lake",
+        "url": "https://dailyinterlake.com/news/2026/sep/30/6-legals-for-september-30-2026/",
+        "publishedAt": "2026-09-30",
+        "relevanceSummary": "The publication includes the official text of Montana Constitutional Initiatives 132 and 133, which are scheduled for submission to voters statewide at the November 3 general election.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-09ts1c1",
+        "headline": "Your 2026 Midterm Voting Questions Answered",
+        "sourceName": "American Civil Liberties Union",
+        "url": "https://www.aclu.org/news/voting-rights/your-questions-answered-how-the-aclu-is-safeguarding-the-2026-midterms",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "The article reports that a Montana law shortening Election Day registration was blocked, preserving Election Day registration options for Montana voters, including those in MT-01.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-04gn946",
+        "headline": "Montana Supreme Court vacates decision to put Butte data center issue to voters",
+        "sourceName": "Montana Right Now",
+        "url": "https://www.montanarightnow.com/news/state/montana-supreme-court-vacates-decision-to-put-butte-data-center-issue-to-voters/article_571612cc-2f0c-517e-a4a8-700d7b21fea6.html",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "The statewide court ruling concerns whether a Butte local issue will appear on the ballot and discusses Montana’s general-election absentee-ballot mailing timeline, including the October 9 statewide schedule.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-05oweaj",
+        "headline": "Briefs: Ballot previews; Transitional housing; Annual report; scam; high-speed internet",
+        "sourceName": "Montana Public Radio",
+        "url": "https://www.mtpr.org/montana-news/2026-09-25/briefs-ballot-previews-transitional-housing-annual-report-scam-high-speed-internet?_amp=true",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "The statewide report says Montana voters can review ballot previews and registration details at voterportal.mt.gov, and that the Secretary of State will begin mailing absentee ballots October 9 for the November 3 election.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0inbbls",
+        "headline": "Voter Registration Reminder and Ballot Certification - KLTZ/MIX-93",
+        "sourceName": "KLTZ/MIX-93",
+        "url": "https://www.kltz.com/news/voter-registration-reminder-and-ballot-certification",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "This statewide Montana update says voters can view their certified sample ballots and verify registration and polling-place information through voterportal.mt.gov before the November 3 general election.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0mmtlsk",
+        "headline": "Campaign season revs up as general election nears",
+        "sourceName": "Lake County Leader-Advertiser",
+        "url": "https://leaderadvertiser.com/news/2026/sep/24/campaign-season-revs-up-as-general-election-nears/",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "Lake County is within MT-01. The article reports that early voting begins October 5, absentee ballots will be mailed October 9 to active absentee voters, returned absentee ballots must include a birth year and signature, and late registration begins October 6.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-23-mt01-auto",
-      "startedAt": "2026-09-23T09:16:07.110Z",
-      "completedAt": "2026-09-23T09:17:21.204Z",
+      "id": "run-2026-09-30-mt01-auto",
+      "startedAt": "2026-09-30T10:20:40.933Z",
+      "completedAt": "2026-09-30T10:21:29.489Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 9,
-      "updatesCreated": 4,
+      "sourcesChecked": 10,
+      "updatesCreated": 6,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-23 for MT-01. Sources checked: 9. LLM verifications: 9. 3 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-09-30 for MT-01. Sources checked: 10. LLM verifications: 10. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-09-30T09:17:21.204Z",
+    "NEXT_REFRESH_AT": "2026-10-07T10:21:29.489Z",
     "WEEKLY_REPORT": {
       "id": "wr-mt01-2026-w28",
       "periodStart": "2026-07-09",

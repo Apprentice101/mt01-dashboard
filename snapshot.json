@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-30",
-  "updatedAt": "2026-09-30T10:21:29.489Z",
-  "exportedAt": "2026-09-30T10:39:02.282Z",
+  "dataAsOf": "2026-10-07",
+  "updatedAt": "2026-10-07T10:56:57.622Z",
+  "exportedAt": "2026-10-07T11:13:57.566Z",
   "districtCode": "MT-01",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "unconfirmed",
         "notes": "Primary anchor for all 2026 general-election dates; includes explicit notice that SB 490's Saturday-office-hours provision is enjoined by court order."
       },
@@ -104,7 +104,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-10-07",
         "confidence": "unconfirmed"
       },
       "src-mt-votemt-resolve": {
@@ -290,7 +290,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-10-07",
         "confidence": "unconfirmed",
         "notes": "Plaintiff-side advocacy source; corroborates the May 11, 2026 preliminary injunction against SB 490."
       },
@@ -1428,20 +1428,90 @@
         "relevanceSummary": "Lake County is within MT-01. The article reports that early voting begins October 5, absentee ballots will be mailed October 9 to active absentee voters, returned absentee ballots must include a birth year and signature, and late registration begins October 6.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0fzehjk",
+        "headline": "Montana Voter Information Pamphlet for 2026 Election",
+        "sourceName": "Billings Mix",
+        "url": "https://billingsmix.com/ixp/1152/p/montana-voter-info-guide/",
+        "publishedAt": "2026-10-07",
+        "relevanceSummary": "The statewide voter-information pamphlet covers the three qualified measures on the Nov. 3 ballot and directs voters to VoteMT.gov to check registration, find polling places, view sample ballots, and track absentee ballots. Absentee ballots are scheduled to be mailed by Oct. 9.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0uin2gq",
+        "headline": "General Election Absentee Ballots Mailed Out October 9th",
+        "sourceName": "KLTZ",
+        "url": "https://www.kltz.com/news/general-election-absentee-ballots-mailed-out-october-9th",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "Valley County officials announced that absentee ballots for the Nov. 3 general election will begin mailing Oct. 9, with replacement-ballot and in-person-request procedures also available. Valley County is outside MT-01, but the statewide mailing schedule and procedures are relevant to Montana voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-01i1l17",
+        "headline": "Montana voter information pamphlet hits mailboxes ahead of ballots",
+        "sourceName": "News from the States",
+        "url": "https://www.newsfromthestates.com/article/montana-voter-information-pamphlet-hits-mailboxes-ahead-ballots",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "Montana’s Secretary of State voter pamphlet provides statewide information about checking voter registration, finding polling places, viewing sample ballots, tracking absentee ballots, and other election resources. These tools are directly available to MT-01 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-00k9xi8",
+        "headline": "State Judge Strikes Down Montana's Ballot Envelope Birth Year Requirement",
+        "sourceName": "U.S. News & World Report",
+        "url": "https://www.usnews.com/news/best-states/montana/articles/2026-10-06/state-judge-strikes-down-montanas-ballot-envelope-birth-year-requirement",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "A Montana state judge ruled unconstitutional the requirement that voters write their birth year on absentee-ballot return envelopes, a rule that had caused ballots to be rejected. The ruling directly affects MT-01 voters returning mail ballots.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0pggd6e",
+        "headline": "On the Record: Montana election administrators",
+        "sourceName": "Montana Free Press",
+        "url": "https://montanafreepress.org/2026/10/06/montana-election-administrators-prepare-november-3/",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "Montana county election administrators are preparing for the Nov. 3 general election, including voter registration, equipment testing, ballot preparation, and mailing hundreds of thousands of absentee ballots beginning Oct. 9. These statewide procedures apply to MT-01 voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-03p0kuv",
+        "headline": "District Court judge rules birthdate voter law unconstitutional",
+        "sourceName": "Montana Right Now",
+        "url": "https://www.montanarightnow.com/news/state/district-court-judge-rules-birthdate-voter-law-unconstitutional/article_b0679f9b-7af2-5415-9ea3-63c3ef18f54d.html",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "A Lewis and Clark County District Court judge invalidated Montana’s absentee-ballot birth-year requirement, meaning a ballot cannot be rejected solely because the voter omitted the birth date. The statewide ruling applies to MT-01 mail voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0h04yb3",
+        "headline": "Legals for October, 1 2026",
+        "sourceName": "Hagadone News Network",
+        "url": "https://hagadonenewsnetwork.com/news/2026/oct/01/13-legals-for-october-1-2026/",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "Lake County election notices describe the Oct. 5 regular-registration deadline, late registration through Election Day, absentee-ballot mailing beginning Oct. 9, ballot-return requirements, and polling hours. Lake County is within MT-01, making these procedures directly relevant to district voters.",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-30-mt01-auto",
-      "startedAt": "2026-09-30T10:20:40.933Z",
-      "completedAt": "2026-09-30T10:21:29.489Z",
+      "id": "run-2026-10-07-mt01-auto",
+      "startedAt": "2026-10-07T10:56:27.996Z",
+      "completedAt": "2026-10-07T10:56:57.622Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 10,
-      "updatesCreated": 6,
-      "conflictsCreated": 1,
+      "sourcesChecked": 6,
+      "updatesCreated": 7,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-30 for MT-01. Sources checked: 10. LLM verifications: 10. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-10-07 for MT-01. Sources checked: 6. LLM verifications: 6. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-07T10:21:29.489Z",
+    "NEXT_REFRESH_AT": "2026-10-14T10:56:57.622Z",
     "WEEKLY_REPORT": {
       "id": "wr-mt01-2026-w28",
       "periodStart": "2026-07-09",

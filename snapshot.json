@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-07",
-  "updatedAt": "2026-10-07T10:56:57.622Z",
-  "exportedAt": "2026-10-07T11:13:57.566Z",
+  "dataAsOf": "2026-10-14",
+  "updatedAt": "2026-10-14T09:20:33.520Z",
+  "exportedAt": "2026-10-14T09:33:29.869Z",
   "districtCode": "MT-01",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "unconfirmed",
         "notes": "Primary anchor for all 2026 general-election dates; includes explicit notice that SB 490's Saturday-office-hours provision is enjoined by court order."
       },
@@ -1498,20 +1498,100 @@
         "relevanceSummary": "Lake County election notices describe the Oct. 5 regular-registration deadline, late registration through Election Day, absentee-ballot mailing beginning Oct. 9, ballot-return requirements, and polling hours. Lake County is within MT-01, making these procedures directly relevant to district voters.",
         "tag": "deadline",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0zbp827",
+        "headline": "Your guide to Montana's 2026 ballot initiatives",
+        "sourceName": "Montana Free Press",
+        "url": "https://montanafreepress.org/2026/10/13/ballot-initiatives-montana-election/",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The statewide guide explains ballot initiatives and the deadline for resolving legal challenges before final ballots are prepared. Montana voters, including those in MT-01, may encounter these measures on the Nov. 3 ballot.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0m9s8gf",
+        "headline": "Your Ballot is Coming, Here's Everything You Need to Know",
+        "sourceName": "NewsTalk KGVO",
+        "url": "https://newstalkkgvo.com/ballot-mailbox-soon-missoula/",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "Missoula County mailed more than 64,000 absentee ballots and provided MT-01 voters with local return options, including Election Day drop-off locations. The county says ballots must arrive by 8 p.m. Nov. 3, postmarks are insufficient, and voters no longer need to write their birth year on the signature envelope following a court decision.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0cukhxm",
+        "headline": "AARP Montana launches nonpartisan voter guide",
+        "sourceName": "Big News Network",
+        "url": "https://www.bignewsnetwork.com/news/279367566/aarp-montana-launches-nonpartisan-voter-guide",
+        "publishedAt": "2026-10-11",
+        "relevanceSummary": "The statewide voter guide covers mail and in-person voting, polling locations, identification and registration. It also reports that voters do not need to include their birth year on absentee ballots after a state judge struck down that requirement.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0raam2c",
+        "headline": "83,000 ballots hit the mail today",
+        "sourceName": "Montana Free Press",
+        "url": "https://montanafreepress.org/2026/10/09/83000-ballots-hit-the-mail-today/",
+        "publishedAt": "2026-10-09",
+        "relevanceSummary": "Yellowstone County began mailing 83,000 absentee ballots and reminded voters to verify registration and absentee-ballot status through the state voter portal. The statewide procedures and administrative guidance are relevant to Montana voters, although Yellowstone County is outside MT-01.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0no853u",
+        "headline": "How to vote in Montana's 2026 midterm election",
+        "sourceName": "Montana Free Press",
+        "url": "https://montanafreepress.org/2026/10/09/how-to-vote-montana-2026/",
+        "publishedAt": "2026-10-09",
+        "relevanceSummary": "This statewide voter guide explains registration, polling locations, absentee-ballot procedures, deadlines and identification requirements that apply to MT-01 voters. It says voters must provide a qualifying photo ID, with additional address documentation required if the ID is not on the accepted list.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0bolupm",
+        "headline": "Nearly 600,000 Montana ballots mailed out",
+        "sourceName": "Montana Right Now",
+        "url": "https://www.montanarightnow.com/news/state/nearly-600-000-montana-ballots-mailed-out/article_fb2264ae-4546-590e-b79c-175b6c7f05b8.html",
+        "publishedAt": "2026-10-09",
+        "relevanceSummary": "Montana absentee ballots were mailed for the general election. Ballots must be returned to a county election office or polling place by 8 p.m. on Nov. 3, and voters can use VoteMT.gov to view sample ballots and track ballot status.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0flu2fw",
+        "headline": "Montana judge rules ballot birth-year verification violates voting rights",
+        "sourceName": "Montana Right Now",
+        "url": "https://www.montanarightnow.com/helena/montana-judge-rules-ballot-birth-year-verification-violates-voting-rights/article_6df89311-461e-461f-98e5-41714fa5fe88.html",
+        "publishedAt": "2026-10-08",
+        "relevanceSummary": "The ruling means absentee ballots without signed birth-year verification will still be accepted for now. County officials were also advising voters about the change while noting that further appellate action could affect the requirement before Election Day.",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-03fjjl1",
+        "headline": "State judge strikes down ballot envelope birth year requirement",
+        "sourceName": "The Leader-Advertiser",
+        "url": "https://leaderadvertiser.com/news/2026/oct/08/state-judge-strikes-down-ballot-envelope-birth-year-requirement/",
+        "publishedAt": "2026-10-08",
+        "relevanceSummary": "A Montana judge ruled that absentee-ballot envelopes missing the voter’s birth year cannot be rejected for the 2026 general election. The ruling directly affects mail voters in MT-01 and changes how ballot envelopes are evaluated.",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-07-mt01-auto",
-      "startedAt": "2026-10-07T10:56:27.996Z",
-      "completedAt": "2026-10-07T10:56:57.622Z",
+      "id": "run-2026-10-14-mt01-auto",
+      "startedAt": "2026-10-14T09:20:03.752Z",
+      "completedAt": "2026-10-14T09:20:33.520Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 6,
-      "updatesCreated": 7,
+      "sourcesChecked": 7,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-07 for MT-01. Sources checked: 6. LLM verifications: 6. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-14 for MT-01. Sources checked: 7. LLM verifications: 7. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-14T10:56:57.622Z",
+    "NEXT_REFRESH_AT": "2026-10-21T09:20:33.520Z",
     "WEEKLY_REPORT": {
       "id": "wr-mt01-2026-w28",
       "periodStart": "2026-07-09",

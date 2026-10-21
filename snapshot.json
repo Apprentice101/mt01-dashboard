@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-14",
-  "updatedAt": "2026-10-14T09:20:33.520Z",
-  "exportedAt": "2026-10-14T09:33:29.869Z",
+  "dataAsOf": "2026-10-21",
+  "updatedAt": "2026-10-21T09:10:54.646Z",
+  "exportedAt": "2026-10-21T09:23:25.975Z",
   "districtCode": "MT-01",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "unconfirmed",
         "notes": "Primary anchor for all 2026 general-election dates; includes explicit notice that SB 490's Saturday-office-hours provision is enjoined by court order."
       },
@@ -290,7 +290,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-21",
         "confidence": "unconfirmed",
         "notes": "Plaintiff-side advocacy source; corroborates the May 11, 2026 preliminary injunction against SB 490."
       },
@@ -1578,20 +1578,90 @@
         "relevanceSummary": "A Montana judge ruled that absentee-ballot envelopes missing the voter’s birth year cannot be rejected for the 2026 general election. The ruling directly affects mail voters in MT-01 and changes how ballot envelopes are evaluated.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0eker43",
+        "headline": "Ballot Initiative 194 Aims to Remove 'Dark Money' From Montana's Elections",
+        "sourceName": "Flathead Beacon",
+        "url": "https://flatheadbeacon.com/2026/10/20/ballot-initiative-194-aims-to-remove-dark-money-from-montanas-elections/",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "The article includes practical statewide election information: absentee ballots were mailed October 9, voters can check registration and ballot status, and late registrants can register through their county election office and receive a ballot there.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0ktapl7",
+        "headline": "AARP Montana releases ‘How to Vote' guide ahead of Nov. 3 general election",
+        "sourceName": "Missoulian",
+        "url": "https://missoulian.com/brandavestudios/article_45ff7da9-cfc7-54cd-a0d1-f5b3173d53b9.html",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "The guide covers Montana voter registration, absentee voting, identification required at polling places, polling-place lookup, sample ballots, and registration applications. These statewide resources apply to voters in Montana’s 1st Congressional District.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0shx0md",
+        "headline": "Nearly 12% of absentee ballots returned, according to Montana Secretary of State’s Office",
+        "sourceName": "Daily Montanan",
+        "url": "https://dailymontanan.com/2026/10/19/nearly-12-of-absentee-ballots-returned-according-to-montana-secretary-of-states-office/",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "The article reports statewide absentee-ballot return figures and explains that Montana voters may still register. It also notes that ballots will not be rejected for omitting the birth year and highlights county election-office hours and drop-box activity, including in Missoula County.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0tvlw9l",
+        "headline": "Montana Mail-in Ballots No Longer Require Birthdate, But Election Officials Suggest Including It Anyway",
+        "sourceName": "KGVO",
+        "url": "https://newstalkkgvo.com/montana-mail-in-ballot-birthdate-ruling/",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "A recent court ruling removed Montana’s requirement that voters write their birth year on absentee-ballot security envelopes, although officials recommend including it because the litigation could change. The story also directs voters to VoteMT.gov for registration and county-election questions.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0rr5qr2",
+        "headline": "2026 midterm elections: How to cast ballots in Gallatin County",
+        "sourceName": "Explore Big Sky",
+        "url": "https://www.explorebigsky.com/2026-midterm-elections-how-to-cast-your-ballot-in-gallatin-county",
+        "publishedAt": "2026-10-17",
+        "relevanceSummary": "Gallatin County voters receive instructions for mailing or dropping off absentee ballots, including a recommended mailing date, county drop-off locations, polling places, and Election Day hours. Gallatin County is within MT-01, making these procedures directly relevant to district voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-0f3oytt",
+        "headline": "2026 General Election: A Northwest Montana Voter's Guide to Local, State and Federal Races",
+        "sourceName": "Flathead Beacon",
+        "url": "https://flatheadbeacon.com/2026/10/16/2026-general-election-a-northwest-montana-voters-guide-to-local-state-and-federal-races/",
+        "publishedAt": "2026-10-16",
+        "relevanceSummary": "The Northwest Montana guide tells voters that absentee ballots were mailed October 9 and must be received by 8 p.m. on Election Day, November 3. It also points voters to VoteMT.gov to check registration, track ballots, and find district information.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mt01-06339ge",
+        "headline": "Satellite Voting Locations",
+        "sourceName": "Forward Montana",
+        "url": "https://forwardmontana.org/satellite-voting-locations/",
+        "publishedAt": "2026-10-15",
+        "relevanceSummary": "The resource lists Montana satellite voting offices where voters can register or receive or drop off absentee ballots, including locations in Gallatin, Glacier, Lake, and Missoula-area communities relevant to MT-01 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-14-mt01-auto",
-      "startedAt": "2026-10-14T09:20:03.752Z",
-      "completedAt": "2026-10-14T09:20:33.520Z",
+      "id": "run-2026-10-21-mt01-auto",
+      "startedAt": "2026-10-21T09:10:28.690Z",
+      "completedAt": "2026-10-21T09:10:54.646Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 7,
-      "updatesCreated": 8,
+      "sourcesChecked": 6,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-14 for MT-01. Sources checked: 7. LLM verifications: 7. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-21 for MT-01. Sources checked: 6. LLM verifications: 6. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-21T09:20:33.520Z",
+    "NEXT_REFRESH_AT": "2026-10-28T09:10:54.646Z",
     "WEEKLY_REPORT": {
       "id": "wr-mt01-2026-w28",
       "periodStart": "2026-07-09",

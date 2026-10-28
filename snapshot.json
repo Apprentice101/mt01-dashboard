@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-21",
-  "updatedAt": "2026-10-21T09:10:54.646Z",
-  "exportedAt": "2026-10-21T09:23:25.975Z",
+  "dataAsOf": "2026-10-28",
+  "updatedAt": "2026-10-28T10:19:59.292Z",
+  "exportedAt": "2026-10-28T10:25:15.909Z",
   "districtCode": "MT-01",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-21",
+        "lastVerified": "2026-10-28",
         "confidence": "unconfirmed",
         "notes": "Primary anchor for all 2026 general-election dates; includes explicit notice that SB 490's Saturday-office-hours provision is enjoined by court order."
       },
@@ -1651,17 +1651,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-21-mt01-auto",
-      "startedAt": "2026-10-21T09:10:28.690Z",
-      "completedAt": "2026-10-21T09:10:54.646Z",
+      "id": "run-2026-10-28-mt01-auto",
+      "startedAt": "2026-10-28T10:19:49.869Z",
+      "completedAt": "2026-10-28T10:19:59.292Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 6,
-      "updatesCreated": 7,
+      "sourcesChecked": 12,
+      "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-21 for MT-01. Sources checked: 6. LLM verifications: 6. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-28 for MT-01. Sources checked: 12. LLM verifications: 13. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-28T09:10:54.646Z",
+    "NEXT_REFRESH_AT": "2026-11-04T10:19:59.292Z",
     "WEEKLY_REPORT": {
       "id": "wr-mt01-2026-w28",
       "periodStart": "2026-07-09",

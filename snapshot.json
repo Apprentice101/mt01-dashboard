@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-11-04",
-  "updatedAt": "2026-11-04T11:46:58.122Z",
-  "exportedAt": "2026-11-04T11:51:15.154Z",
+  "dataAsOf": "2026-11-11",
+  "updatedAt": "2026-11-11T11:38:06.837Z",
+  "exportedAt": "2026-11-11T11:44:13.705Z",
   "districtCode": "MT-01",
   "data": {
     "DISTRICT": {
@@ -240,7 +240,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-11-04",
+        "lastVerified": "2026-11-11",
         "confidence": "unconfirmed",
         "notes": "Requires wet-ink (non-digital) signature on any ballot-rejection-resolution or replacement-ballot form. Drop-box locations not itemized on this page (needsReview)."
       },
@@ -316,7 +316,7 @@
         "sourceType": "news",
         "hierarchyLevel": 6,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-11-11",
         "confidence": "unconfirmed",
         "notes": "Details SB 276 voter-ID tightening and the new birth-year-on-envelope absentee requirement."
       },
@@ -1651,17 +1651,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-11-04-mt01-auto",
-      "startedAt": "2026-11-04T11:46:50.251Z",
-      "completedAt": "2026-11-04T11:46:58.122Z",
+      "id": "run-2026-11-11-mt01-auto",
+      "startedAt": "2026-11-11T11:37:50.605Z",
+      "completedAt": "2026-11-11T11:38:06.837Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 12,
+      "sourcesChecked": 13,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-11-04 for MT-01. Sources checked: 12. LLM verifications: 12. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-11-11 for MT-01. Sources checked: 13. LLM verifications: 13. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-11-11T11:46:58.122Z",
+    "NEXT_REFRESH_AT": "2026-11-18T11:38:06.837Z",
     "WEEKLY_REPORT": {
       "id": "wr-mt01-2026-w28",
       "periodStart": "2026-07-09",
